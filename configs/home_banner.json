@@ -8,7 +8,7 @@
       "cellTitle": "신기능 - 아이템 탭 컬러/계절 필터링",
       "detailTitle": "아이템 탭에 컬러별/계절별 필터링 기능",
       "description": "아이템 탭에서 컬러와 계절을 기준으로 필터링할 수 있는 기능이 추가되었습니다. 봄, 여름, 가을, 겨울별로 한눈에 아이템을 모아 보고, 자주 입는 색상 위주로 골라 볼 수 있습니다.",
-      "imageUrl": "https://github.com/iSongeun/simplecloset-remote-config/blob/main/configs/images/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-11-26%20at%2014.39.45.png?raw=true"
+      "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/refs/heads/main/configs/images/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-11-26%20at%2014.39.45.png"
     },
     {
       "id": "free_color_season_property",
