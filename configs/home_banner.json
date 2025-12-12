@@ -1,85 +1,289 @@
 {
   "version": 3,
-  "title": "v3 신규 기능 및 유료 기능 추가",
-  "updatedAt": "2025-11-26T00:00:00Z",
+  "title": {
+    "ko": "v3 신규 기능 및 유료 기능 추가",
+    "en": "v3 New Features & Premium Add-ons",
+    "zh-Hans": "v3 新功能与高级功能更新",
+    "ja": "v3 新機能とプレミアム機能の追加",
+    "es": "Novedades v3 y funciones Premium"
+  },
+  "updatedAt": "2025-12-12T00:00:00Z",
   "freeFeatures": [
     {
       "id": "free_color_season_filter",
-      "cellTitle": "신기능 - 아이템 탭 컬러/계절 필터링",
-      "detailTitle": "아이템 탭에 컬러별/계절별 필터링 기능",
-      "description": "아이템 탭에서 컬러와 계절을 기준으로 필터링할 수 있는 기능이 추가되었습니다. 봄, 여름, 가을, 겨울별로 한눈에 아이템을 모아 보고, 자주 입는 색상 위주로 골라 볼 수 있습니다.",
+      "cellTitle": {
+        "ko": "신기능 - 아이템 탭 컬러/계절 필터링",
+        "en": "New - Color/Season Filters in Items",
+        "zh-Hans": "新功能 - 物品页颜色/季节筛选",
+        "ja": "新機能 - アイテムの色/季節フィルター",
+        "es": "Nuevo - Filtros por color/temporada"
+      },
+      "detailTitle": {
+        "ko": "아이템 탭에 컬러별/계절별 필터링 기능",
+        "en": "Filter items by color and season in the Items tab",
+        "zh-Hans": "在物品页按颜色与季节筛选",
+        "ja": "アイテムタブで色/季節ごとに絞り込み",
+        "es": "Filtra por color y temporada en Artículos"
+      },
+      "description": {
+        "ko": "아이템 탭에서 컬러와 계절을 기준으로 필터링할 수 있는 기능이 추가되었습니다. 봄, 여름, 가을, 겨울별로 한눈에 아이템을 모아 보고, 자주 입는 색상 위주로 골라 볼 수 있습니다.",
+        "en": "You can now filter items in the Items tab by color and season. Quickly group items by spring, summer, fall, or winter, and focus on the colors you wear most often.",
+        "zh-Hans": "现在可以在物品页按颜色与季节进行筛选。可按春夏秋冬快速查看，并优先浏览你常穿的颜色。",
+        "ja": "アイテムタブで色と季節で絞り込めるようになりました。春夏秋冬ごとにまとめて確認し、よく着る色を中心に探せます。",
+        "es": "Ahora puedes filtrar artículos por color y temporada. Agrupa por primavera, verano, otoño o invierno y revisa primero los colores que más usas."
+      },
       "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-11-26%20at%2014.39.45.png"
     },
     {
       "id": "free_color_season_property",
-      "cellTitle": "신기능 - 아이템 컬러/계절 속성 추가",
-      "detailTitle": "아이템에 컬러별/계절별 속성 추가",
-      "description": "각 아이템마다 대표 컬러와 어울리는 계절 정보를 저장할 수 있습니다. 이후 추천, 필터링, 통계 등에서 이 정보를 활용하게 됩니다.",
+      "cellTitle": {
+        "ko": "신기능 - 아이템 컬러/계절 속성 추가",
+        "en": "New - Item Color/Season Attributes",
+        "zh-Hans": "新功能 - 物品颜色/季节属性",
+        "ja": "新機能 - アイテムに色/季節属性追加",
+        "es": "Nuevo - Atributos de color/temporada"
+      },
+      "detailTitle": {
+        "ko": "아이템에 컬러별/계절별 속성 추가",
+        "en": "Save a color and season for each item",
+        "zh-Hans": "为每个物品保存颜色与季节",
+        "ja": "各アイテムに色と季節を保存",
+        "es": "Guarda color y temporada por artículo"
+      },
+      "description": {
+        "ko": "각 아이템마다 대표 컬러와 어울리는 계절 정보를 저장할 수 있습니다. 이후 추천, 필터링, 통계 등에서 이 정보를 활용하게 됩니다.",
+        "en": "You can save a main color and matching season for each item. This will be used later for recommendations, filters, and wardrobe stats.",
+        "zh-Hans": "你可以为每个物品保存代表颜色与适合季节的信息，后续会用于推荐、筛选与统计等功能。",
+        "ja": "各アイテムに代表カラーと合う季節情報を保存できます。今後、推薦・絞り込み・統計などで活用されます。",
+        "es": "Puedes guardar un color principal y la temporada que mejor combina para cada artículo. Se usará en recomendaciones, filtros y estadísticas."
+      },
       "imageUrl": ""
     },
     {
       "id": "free_style_tags",
-      "cellTitle": "신기능 - 아이템 스타일 태그",
-      "detailTitle": "아이템 스타일 태그 추가",
-      "description": "캐주얼, 포멀, 미니멀, 스트리트 같은 스타일 태그를 아이템에 추가할 수 있습니다. 스타일별로 아이템을 모아 보거나 코디를 고를 때 참고할 수 있습니다.",
+      "cellTitle": {
+        "ko": "신기능 - 아이템 스타일 태그",
+        "en": "New - Style Tags",
+        "zh-Hans": "新功能 - 风格标签",
+        "ja": "新機能 - スタイルタグ",
+        "es": "Nuevo - Etiquetas de estilo"
+      },
+      "detailTitle": {
+        "ko": "아이템 스타일 태그 추가",
+        "en": "Add style tags to items",
+        "zh-Hans": "为物品添加风格标签",
+        "ja": "アイテムにスタイルタグを追加",
+        "es": "Añade etiquetas de estilo"
+      },
+      "description": {
+        "ko": "캐주얼, 포멀, 미니멀, 스트리트 같은 스타일 태그를 아이템에 추가할 수 있습니다. 스타일별로 아이템을 모아 보거나 코디를 고를 때 참고할 수 있습니다.",
+        "en": "Add style tags like casual, formal, minimal, or street. Group items by style or use them as a reference when choosing outfits.",
+        "zh-Hans": "可为物品添加休闲、正式、极简、街头等风格标签。可按风格聚合查看，也能在搭配时作为参考。",
+        "ja": "カジュアル、フォーマル、ミニマル、ストリートなどのスタイルタグを追加できます。スタイル別に一覧したり、コーデ選びの参考にできます。",
+        "es": "Añade etiquetas como casual, formal, minimal o street. Agrupa por estilo o úsalo como referencia al elegir outfits."
+      },
       "imageUrl": ""
     },
     {
       "id": "free_wear_history",
-      "cellTitle": "신기능 - 입은 기록 히스토리",
-      "detailTitle": "아이템 인포에 입은 히스토리 추가",
-      "description": "아이템 상세 화면에서 최근에 언제 입었는지, 얼마나 자주 입는 아이템인지 히스토리로 확인할 수 있습니다. 잘 안 입는 아이템도 한눈에 찾아낼 수 있습니다.",
+      "cellTitle": {
+        "ko": "신기능 - 입은 기록 히스토리",
+        "en": "New - Wear History",
+        "zh-Hans": "新功能 - 穿着记录",
+        "ja": "新機能 - 着用履歴",
+        "es": "Nuevo - Historial de uso"
+      },
+      "detailTitle": {
+        "ko": "아이템 인포에 입은 히스토리 추가",
+        "en": "Wear history in item details",
+        "zh-Hans": "在详情页查看穿着历史",
+        "ja": "アイテム詳細に着用履歴を表示",
+        "es": "Historial en el detalle del artículo"
+      },
+      "description": {
+        "ko": "아이템 상세 화면에서 최근에 언제 입었는지, 얼마나 자주 입는 아이템인지 히스토리로 확인할 수 있습니다. 잘 안 입는 아이템도 한눈에 찾아낼 수 있습니다.",
+        "en": "See when you last wore an item and how often you wear it. It also helps you spot items you rarely use at a glance.",
+        "zh-Hans": "在物品详情页可查看最近穿着时间与穿着频率，也能快速发现很少穿的单品。",
+        "ja": "アイテム詳細で「いつ着たか」「どれくらいの頻度で着るか」を履歴で確認できます。あまり着ていないアイテムも見つけやすくなります。",
+        "es": "Consulta cuándo lo usaste por última vez y con qué frecuencia. También ayuda a detectar prendas que casi no usas."
+      },
       "imageUrl": ""
     },
     {
       "id": "free_notice_banner",
-      "cellTitle": "신기능 - 공지 배너",
-      "detailTitle": "공지 배너",
-      "description": "앱 상단에 공지 배너 영역이 추가되었습니다. 업데이트 소식, 신규 기능 안내, 이벤트 정보 등을 앱 안에서 바로 확인할 수 있습니다.",
+      "cellTitle": {
+        "ko": "신기능 - 공지 배너",
+        "en": "New - Notice Banner",
+        "zh-Hans": "新功能 - 公告横幅",
+        "ja": "新機能 - お知らせバナー",
+        "es": "Nuevo - Banner de avisos"
+      },
+      "detailTitle": {
+        "ko": "공지 배너",
+        "en": "Notice banner",
+        "zh-Hans": "公告横幅",
+        "ja": "お知らせバナー",
+        "es": "Banner de avisos"
+      },
+      "description": {
+        "ko": "앱 상단에 공지 배너 영역이 추가되었습니다. 업데이트 소식, 신규 기능 안내, 이벤트 정보 등을 앱 안에서 바로 확인할 수 있습니다.",
+        "en": "A notice banner has been added to the top of the app. Check updates, new feature announcements, and event info right inside the app.",
+        "zh-Hans": "应用顶部新增公告横幅区域，可在应用内直接查看更新、新功能与活动信息。",
+        "ja": "アプリ上部にお知らせバナーが追加されました。アップデート、新機能案内、イベント情報などをアプリ内で確認できます。",
+        "es": "Se añadió un banner en la parte superior. Consulta novedades, anuncios de funciones y eventos desde la app."
+      },
       "imageUrl": ""
     },
     {
       "id": "free_three_column_grid",
-      "cellTitle": "신기능 - 아이템 3개씩 보기",
-      "detailTitle": "아이템 한눈에 보기 좋은 3개씩 보기 추가",
-      "description": "아이템 목록을 3열 그리드로 볼 수 있는 모드가 추가되었습니다. 옷장을 펼쳐 놓은 것처럼 더 많은 아이템을 한 화면에서 빠르게 훑어볼 수 있습니다.",
+      "cellTitle": {
+        "ko": "신기능 - 아이템 3개씩 보기",
+        "en": "New - 3-Column Grid",
+        "zh-Hans": "新功能 - 三列网格",
+        "ja": "新機能 - 3列グリッド表示",
+        "es": "Nuevo - Cuadrícula de 3 columnas"
+      },
+      "detailTitle": {
+        "ko": "아이템 한눈에 보기 좋은 3개씩 보기 추가",
+        "en": "View items in a 3-column layout",
+        "zh-Hans": "以三列布局查看更多物品",
+        "ja": "アイテムを3列で見やすく表示",
+        "es": "Ver artículos en 3 columnas"
+      },
+      "description": {
+        "ko": "아이템 목록을 3열 그리드로 볼 수 있는 모드가 추가되었습니다. 옷장을 펼쳐 놓은 것처럼 더 많은 아이템을 한 화면에서 빠르게 훑어볼 수 있습니다.",
+        "en": "A 3-column grid mode is now available. Browse more items on one screen, like opening your closet at a glance.",
+        "zh-Hans": "新增三列网格模式，可在同一屏幕快速浏览更多物品，就像把衣橱摊开查看一样。",
+        "ja": "アイテム一覧を3列グリッドで表示できるモードが追加されました。クローゼットを広げたように、1画面で多くのアイテムを素早く確認できます。",
+        "es": "Se añadió un modo de cuadrícula de 3 columnas. Revisa más artículos en una sola pantalla, como si abrieras tu armario de par en par."
+      },
       "imageUrl": ""
     },
     {
       "id": "free_weekly_calendar",
-      "cellTitle": "신기능 - 캘린더 주간 보기",
-      "detailTitle": "캘린더에 주간 보기 기능 추가",
-      "description": "캘린더 화면에 주간 보기 모드가 추가되었습니다. 일주일 동안 어떤 옷을 입었는지, 코디 패턴이 어떻게 되는지 한 줄로 정리된 주간 뷰에서 확인할 수 있습니다.",
+      "cellTitle": {
+        "ko": "신기능 - 캘린더 주간 보기",
+        "en": "New - Weekly Calendar View",
+        "zh-Hans": "新功能 - 日历周视图",
+        "ja": "新機能 - カレンダー週表示",
+        "es": "Nuevo - Vista semanal del calendario"
+      },
+      "detailTitle": {
+        "ko": "캘린더에 주간 보기 기능 추가",
+        "en": "Weekly view added to calendar",
+        "zh-Hans": "日历新增周视图",
+        "ja": "カレンダーに週表示を追加",
+        "es": "Se añadió la vista semanal"
+      },
+      "description": {
+        "ko": "캘린더 화면에 주간 보기 모드가 추가되었습니다. 일주일 동안 어떤 옷을 입었는지, 코디 패턴이 어떻게 되는지 한 줄로 정리된 주간 뷰에서 확인할 수 있습니다.",
+        "en": "A weekly mode has been added to the calendar. See what you wore over the week and check outfit patterns in a compact weekly view.",
+        "zh-Hans": "日历新增周模式，可在简洁的周视图中查看一周穿搭与搭配规律。",
+        "ja": "カレンダー画面に週表示モードが追加されました。1週間で何を着たか、コーデの傾向をコンパクトな週ビューで確認できます。",
+        "es": "Se agregó el modo semanal. Revisa lo que usaste durante la semana y detecta patrones de outfits en una vista compacta."
+      },
       "imageUrl": ""
     },
     {
       "id": "free_autocomplete",
-      "cellTitle": "신기능 - 아이템 자동완성",
-      "detailTitle": "아이템 추가/수정 시 자동완성 기능 추가",
-      "description": "아이템을 추가하거나 수정할 때 자주 사용하는 브랜드, 카테고리, 컬러, 계절 정보를 자동완성으로 빠르게 입력할 수 있습니다. 비슷한 아이템을 여러 개 등록할 때 입력 시간이 줄어듭니다.",
+      "cellTitle": {
+        "ko": "신기능 - 아이템 자동완성",
+        "en": "New - Item Auto-Complete",
+        "zh-Hans": "新功能 - 输入自动补全",
+        "ja": "新機能 - 入力オートコンプリート",
+        "es": "Nuevo - Autocompletar"
+      },
+      "detailTitle": {
+        "ko": "아이템 추가/수정 시 자동완성 기능 추가",
+        "en": "Auto-complete when adding/editing items",
+        "zh-Hans": "新增/编辑物品时自动补全",
+        "ja": "追加/編集時の入力補完",
+        "es": "Autocompletar al añadir/editar"
+      },
+      "description": {
+        "ko": "아이템을 추가하거나 수정할 때 자주 사용하는 브랜드, 카테고리, 컬러, 계절 정보를 자동완성으로 빠르게 입력할 수 있습니다. 비슷한 아이템을 여러 개 등록할 때 입력 시간이 줄어듭니다.",
+        "en": "Get suggestions for frequently used brands, categories, colors, and seasons when adding or editing items. It saves time when registering similar items.",
+        "zh-Hans": "新增或编辑物品时，会对常用品牌、分类、颜色与季节信息进行自动补全建议，批量录入相似物品更省时间。",
+        "ja": "アイテム追加/編集時に、よく使うブランド・カテゴリ・カラー・季節情報を入力補完で素早く入れられます。似たアイテムを複数登録する際に入力時間を短縮できます。",
+        "es": "Al añadir o editar, recibe sugerencias de marcas, categorías, colores y temporadas frecuentes. Ahorra tiempo al registrar artículos similares."
+      },
       "imageUrl": ""
     }
   ],
   "premiumFeatures": [
     {
       "id": "premium_recommendation_algorithm",
-      "cellTitle": "Premium 신기능 - 추천 알고리즘",
-      "detailTitle": "추천 알고리즘",
-      "description": "날씨, 계절, 착용 히스토리, 컬러와 스타일 태그를 종합해서 오늘 입기 좋은 아이템을 자동으로 추천해 줍니다. 자주 입는 옷만 반복해서 입지 않도록, 옷장 전체를 골고루 활용할 수 있도록 도와줍니다.",
+      "cellTitle": {
+        "ko": "Premium 신기능 - 추천 알고리즘",
+        "en": "Premium - Recommendation Algorithm",
+        "zh-Hans": "高级功能 - 推荐算法",
+        "ja": "プレミアム - レコメンドアルゴリズム",
+        "es": "Premium - Algoritmo de recomendaciones"
+      },
+      "detailTitle": {
+        "ko": "추천 알고리즘",
+        "en": "Recommendation algorithm",
+        "zh-Hans": "推荐算法",
+        "ja": "おすすめアルゴリズム",
+        "es": "Algoritmo de recomendaciones"
+      },
+      "description": {
+        "ko": "날씨, 계절, 착용 히스토리, 컬러와 스타일 태그를 종합해서 오늘 입기 좋은 아이템을 자동으로 추천해 줍니다. 자주 입는 옷만 반복해서 입지 않도록, 옷장 전체를 골고루 활용할 수 있도록 도와줍니다.",
+        "en": "We combine weather, season, wear history, colors, and style tags to recommend items that fit today. It helps you avoid repeating the same outfits and use your whole wardrobe more evenly.",
+        "zh-Hans": "综合天气、季节、穿着记录、颜色与风格标签，自动推荐今天适合穿的单品，帮助你减少重复穿搭并更均衡地利用衣橱。",
+        "ja": "天気・季節・着用履歴・カラー・スタイルタグを総合して、今日にぴったりのアイテムを自動でおすすめします。同じ服ばかり繰り返さないようにし、クローゼット全体をバランスよく活用できます。",
+        "es": "Combinamos clima, temporada, historial de uso, colores y etiquetas de estilo para recomendar prendas ideales para hoy. Te ayuda a no repetir siempre lo mismo y a aprovechar todo tu armario."
+      },
       "imageUrl": ""
     },
     {
       "id": "premium_recommended_items_in_info",
-      "cellTitle": "Premium 신기능 - 함께 입으면 좋은 아이템",
-      "detailTitle": "아이템 인포에 추천 아이템 추가",
-      "description": "아이템 상세 화면에서 이 아이템과 함께 코디하면 좋은 추천 아이템을 확인할 수 있습니다. 자주 같이 입는 조합이나 색감이 잘 어울리는 아이템을 자동으로 제안해 줍니다.",
+      "cellTitle": {
+        "ko": "Premium 신기능 - 함께 입으면 좋은 아이템",
+        "en": "Premium - Great Pairing Items",
+        "zh-Hans": "高级功能 - 搭配推荐单品",
+        "ja": "プレミアム - 相性の良いアイテム",
+        "es": "Premium - Artículos que combinan"
+      },
+      "detailTitle": {
+        "ko": "아이템 인포에 추천 아이템 추가",
+        "en": "Recommended items in item details",
+        "zh-Hans": "详情页增加搭配推荐",
+        "ja": "詳細におすすめアイテムを表示",
+        "es": "Recomendados en el detalle"
+      },
+      "description": {
+        "ko": "아이템 상세 화면에서 이 아이템과 함께 코디하면 좋은 추천 아이템을 확인할 수 있습니다. 자주 같이 입는 조합이나 색감이 잘 어울리는 아이템을 자동으로 제안해 줍니다.",
+        "en": "In the item detail view, see items that pair well. The app suggests combinations you often wear together or pieces that match nicely in color.",
+        "zh-Hans": "在物品详情页查看与当前单品搭配更合适的推荐物品，会自动建议常见组合或颜色更协调的单品。",
+        "ja": "アイテム詳細で「一緒に着ると良い」おすすめアイテムを確認できます。よく組み合わせるセットや色味が合うアイテムを自動で提案します。",
+        "es": "En el detalle, consulta artículos que combinan bien. Sugiere conjuntos que sueles usar o prendas con colores que encajan."
+      },
       "imageUrl": ""
     },
     {
       "id": "premium_home_stats",
-      "cellTitle": "Premium 신기능 - 홈 통계",
-      "detailTitle": "홈 통계 기능 추가",
-      "description": "홈 화면에서 나의 옷장 데이터를 통계로 확인할 수 있습니다.\n\n- 전체 아이템 수\n- 아이템별 착용 주기\n- 카테고리별 아이템 분포 원형 그래프\n- 컬러 분포\n- 내가 가장 좋아하는 브랜드 (착용 빈도 기준)\n- 내가 가장 많이 가지고 있는 브랜드 (개수 기준)\n- 지난 한 달간 가장 많이 입은 아이템\n- 이번 계절에 거의 입지 않은 이번 계절 아이템\n- 최근 추가된 아이템 모아 보기\n\n프리미엄 통계를 통해 실제로 입는 옷과 그렇지 않은 옷을 분리하고, 앞으로 어떤 옷을 더 활용할지 계획할 수 있습니다.",
+      "cellTitle": {
+        "ko": "Premium 신기능 - 홈 통계",
+        "en": "Premium - Home Stats",
+        "zh-Hans": "高级功能 - 首页统计",
+        "ja": "プレミアム - ホーム統計",
+        "es": "Premium - Estadísticas en inicio"
+      },
+      "detailTitle": {
+        "ko": "홈 통계 기능 추가",
+        "en": "Home statistics added",
+        "zh-Hans": "新增首页统计功能",
+        "ja": "ホームに統計機能を追加",
+        "es": "Se añadieron estadísticas"
+      },
+      "description": {
+        "ko": "홈 화면에서 나의 옷장 데이터를 통계로 확인할 수 있습니다.\n\n- 전체 아이템 수\n- 아이템별 착용 주기\n- 카테고리별 아이템 분포 원형 그래프\n- 컬러 분포\n- 내가 가장 좋아하는 브랜드 (착용 빈도 기준)\n- 내가 가장 많이 가지고 있는 브랜드 (개수 기준)\n- 지난 한 달간 가장 많이 입은 아이템\n- 이번 계절에 거의 입지 않은 이번 계절 아이템\n- 최근 추가된 아이템 모아 보기\n\n프리미엄 통계를 통해 실제로 입는 옷과 그렇지 않은 옷을 분리하고, 앞으로 어떤 옷을 더 활용할지 계획할 수 있습니다.",
+        "en": "View your wardrobe data as stats on the Home screen.\n\n- Total item count\n- Wear frequency per item\n- Category distribution (pie chart)\n- Color distribution\n- Your favorite brands (by wear frequency)\n- Brands you own the most (by item count)\n- Most worn items in the last month\n- This season's items you barely wore\n- Recently added items\n\nThese premium stats help you separate what you actually wear from what you don’t, and plan what to use more going forward.",
+        "zh-Hans": "在首页以统计方式查看你的衣橱数据。\n\n- 物品总数\n- 单品穿着频率\n- 按分类的分布（饼图）\n- 颜色分布\n- 你最喜欢的品牌（按穿着频率）\n- 你拥有最多的品牌（按数量）\n- 过去一个月最常穿的单品\n- 本季几乎没穿过的本季单品\n- 最近新增单品汇总\n\n通过高级统计，你可以区分常穿与不常穿的衣物，并规划接下来要更多利用的单品。",
+        "ja": "ホーム画面でクローゼットデータを統計として確認できます。\n\n- 全アイテム数\n- アイテムごとの着用頻度\n- カテゴリ分布（円グラフ）\n- カラー分布\n- よく着るブランド（着用頻度）\n- 所有数が多いブランド（個数）\n- 直近1か月で最も着たアイテム\n- 今季ほとんど着ていない今季アイテム\n- 最近追加したアイテム一覧\n\nプレミアム統計で「実際に着る服」と「着ない服」を分け、今後どの服をもっと活用するか計画できます。",
+        "es": "Consulta estadísticas de tu armario en la pantalla de Inicio.\n\n- Total de artículos\n- Frecuencia de uso por artículo\n- Distribución por categoría (gráfico circular)\n- Distribución de colores\n- Tus marcas favoritas (por frecuencia de uso)\n- Las marcas que más tienes (por cantidad)\n- Artículos más usados del último mes\n- Artículos de esta temporada que casi no usaste\n- Artículos añadidos recientemente\n\nEstas estadísticas Premium te ayudan a separar lo que realmente usas de lo que no, y a planificar qué prendas aprovechar más."
+      },
       "imageUrl": ""
     }
   ]
