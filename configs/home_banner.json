@@ -10,77 +10,52 @@
   "updatedAt": "2025-12-12T00:00:00Z",
   "freeFeatures": [
     {
-      "id": "free_color_season_filter",
+      "id": "free_season_filter_items_tab",
       "cellTitle": {
-        "ko": "신기능 - 아이템 탭 컬러/계절 필터링",
-        "en": "New - Color/Season Filters in Items",
-        "zh-Hans": "新功能 - 物品页颜色/季节筛选",
-        "ja": "新機能 - アイテムの色/季節フィルター",
-        "es": "Nuevo - Filtros por color/temporada"
+        "ko": "신기능 - 아이템 탭 계절 필터링",
+        "en": "New - Season Filters in Items",
+        "zh-Hans": "新功能 - 物品页季节筛选",
+        "ja": "新機能 - アイテムの季節フィルター",
+        "es": "Nuevo - Filtros por temporada"
       },
       "detailTitle": {
-        "ko": "아이템 탭에 컬러별/계절별 필터링 기능",
-        "en": "Filter items by color and season in the Items tab",
-        "zh-Hans": "在物品页按颜色与季节筛选",
-        "ja": "アイテムタブで色/季節ごとに絞り込み",
-        "es": "Filtra por color y temporada en Artículos"
+        "ko": "아이템 탭에서 계절별로 필터링",
+        "en": "Filter items by season in the Items tab",
+        "zh-Hans": "在物品页按季节筛选",
+        "ja": "アイテムタブで季節ごとに絞り込み",
+        "es": "Filtra por temporada en Artículos"
       },
       "description": {
-        "ko": "아이템 탭에서 컬러와 계절을 기준으로 필터링할 수 있는 기능이 추가되었습니다. 봄, 여름, 가을, 겨울별로 한눈에 아이템을 모아 보고, 자주 입는 색상 위주로 골라 볼 수 있습니다.",
-        "en": "You can now filter items in the Items tab by color and season. Quickly group items by spring, summer, fall, or winter, and focus on the colors you wear most often.",
-        "zh-Hans": "现在可以在物品页按颜色与季节进行筛选。可按春夏秋冬快速查看，并优先浏览你常穿的颜色。",
-        "ja": "アイテムタブで色と季節で絞り込めるようになりました。春夏秋冬ごとにまとめて確認し、よく着る色を中心に探せます。",
-        "es": "Ahora puedes filtrar artículos por color y temporada. Agrupa por primavera, verano, otoño o invierno y revisa primero los colores que más usas."
+        "ko": "아이템 탭에서 계절(봄, 여름, 가을, 겨울)을 기준으로 아이템을 필터링할 수 있습니다. 계절별로 옷을 모아 보고, 지금 시즌에 맞는 아이템을 빠르게 확인할 수 있습니다.",
+        "en": "You can now filter items in the Items tab by season (spring, summer, fall, winter). Quickly group items by season and find what fits the current time of year.",
+        "zh-Hans": "现在可以在物品页按季节（春夏秋冬）进行筛选。可快速按季节聚合查看，方便找到当季适合的单品。",
+        "ja": "アイテムタブで季節（春夏秋冬）で絞り込めるようになりました。季節ごとにまとめて確認し、今の季節に合うアイテムを素早く探せます。",
+        "es": "Ahora puedes filtrar artículos por temporada (primavera, verano, otoño, invierno). Agrupa por temporada y encuentra rápidamente lo adecuado para el momento."
       },
       "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-11-26%20at%2014.39.45.png"
     },
     {
-      "id": "free_color_season_property",
+      "id": "free_season_property",
       "cellTitle": {
-        "ko": "신기능 - 아이템 컬러/계절 속성 추가",
-        "en": "New - Item Color/Season Attributes",
-        "zh-Hans": "新功能 - 物品颜色/季节属性",
-        "ja": "新機能 - アイテムに色/季節属性追加",
-        "es": "Nuevo - Atributos de color/temporada"
+        "ko": "신기능 - 아이템 계절 속성 추가",
+        "en": "New - Item Season Attribute",
+        "zh-Hans": "新功能 - 物品季节属性",
+        "ja": "新機能 - アイテムに季節属性追加",
+        "es": "Nuevo - Atributo de temporada"
       },
       "detailTitle": {
-        "ko": "아이템에 컬러별/계절별 속성 추가",
-        "en": "Save a color and season for each item",
-        "zh-Hans": "为每个物品保存颜色与季节",
-        "ja": "各アイテムに色と季節を保存",
-        "es": "Guarda color y temporada por artículo"
+        "ko": "아이템에 계절 정보를 저장",
+        "en": "Save a season for each item",
+        "zh-Hans": "为每个物品保存季节信息",
+        "ja": "各アイテムに季節情報を保存",
+        "es": "Guarda la temporada por artículo"
       },
       "description": {
-        "ko": "각 아이템마다 대표 컬러와 어울리는 계절 정보를 저장할 수 있습니다. 이후 추천, 필터링, 통계 등에서 이 정보를 활용하게 됩니다.",
-        "en": "You can save a main color and matching season for each item. This will be used later for recommendations, filters, and wardrobe stats.",
-        "zh-Hans": "你可以为每个物品保存代表颜色与适合季节的信息，后续会用于推荐、筛选与统计等功能。",
-        "ja": "各アイテムに代表カラーと合う季節情報を保存できます。今後、推薦・絞り込み・統計などで活用されます。",
-        "es": "Puedes guardar un color principal y la temporada que mejor combina para cada artículo. Se usará en recomendaciones, filtros y estadísticas."
-      },
-      "imageUrl": ""
-    },
-    {
-      "id": "free_style_tags",
-      "cellTitle": {
-        "ko": "신기능 - 아이템 스타일 태그",
-        "en": "New - Style Tags",
-        "zh-Hans": "新功能 - 风格标签",
-        "ja": "新機能 - スタイルタグ",
-        "es": "Nuevo - Etiquetas de estilo"
-      },
-      "detailTitle": {
-        "ko": "아이템 스타일 태그 추가",
-        "en": "Add style tags to items",
-        "zh-Hans": "为物品添加风格标签",
-        "ja": "アイテムにスタイルタグを追加",
-        "es": "Añade etiquetas de estilo"
-      },
-      "description": {
-        "ko": "캐주얼, 포멀, 미니멀, 스트리트 같은 스타일 태그를 아이템에 추가할 수 있습니다. 스타일별로 아이템을 모아 보거나 코디를 고를 때 참고할 수 있습니다.",
-        "en": "Add style tags like casual, formal, minimal, or street. Group items by style or use them as a reference when choosing outfits.",
-        "zh-Hans": "可为物品添加休闲、正式、极简、街头等风格标签。可按风格聚合查看，也能在搭配时作为参考。",
-        "ja": "カジュアル、フォーマル、ミニマル、ストリートなどのスタイルタグを追加できます。スタイル別に一覧したり、コーデ選びの参考にできます。",
-        "es": "Añade etiquetas como casual, formal, minimal o street. Agrupa por estilo o úsalo como referencia al elegir outfits."
+        "ko": "각 아이템마다 어울리는 계절 정보를 저장할 수 있습니다. 이후 추천, 필터링, 통계 등에서 이 정보를 활용하게 됩니다.",
+        "en": "You can save a matching season for each item. This will be used later for recommendations, filters, and wardrobe stats.",
+        "zh-Hans": "你可以为每个物品保存适合季节的信息，后续会用于推荐、筛选与统计等功能。",
+        "ja": "各アイテムに合う季節情報を保存できます。今後、推薦・絞り込み・統計などで活用されます。",
+        "es": "Puedes guardar la temporada que mejor combina para cada artículo. Se usará en recomendaciones, filtros y estadísticas."
       },
       "imageUrl": ""
     },
@@ -201,16 +176,91 @@
         "es": "Autocompletar al añadir/editar"
       },
       "description": {
-        "ko": "아이템을 추가하거나 수정할 때 자주 사용하는 브랜드, 카테고리, 컬러, 계절 정보를 자동완성으로 빠르게 입력할 수 있습니다. 비슷한 아이템을 여러 개 등록할 때 입력 시간이 줄어듭니다.",
-        "en": "Get suggestions for frequently used brands, categories, colors, and seasons when adding or editing items. It saves time when registering similar items.",
-        "zh-Hans": "新增或编辑物品时，会对常用品牌、分类、颜色与季节信息进行自动补全建议，批量录入相似物品更省时间。",
-        "ja": "アイテム追加/編集時に、よく使うブランド・カテゴリ・カラー・季節情報を入力補完で素早く入れられます。似たアイテムを複数登録する際に入力時間を短縮できます。",
-        "es": "Al añadir o editar, recibe sugerencias de marcas, categorías, colores y temporadas frecuentes. Ahorra tiempo al registrar artículos similares."
+        "ko": "아이템을 추가하거나 수정할 때 자주 사용하는 브랜드, 카테고리, 계절 정보를 자동완성으로 빠르게 입력할 수 있습니다. 비슷한 아이템을 여러 개 등록할 때 입력 시간이 줄어듭니다.",
+        "en": "Get suggestions for frequently used brands, categories, and seasons when adding or editing items. It saves time when registering similar items.",
+        "zh-Hans": "新增或编辑物品时，会对常用品牌、分类与季节信息进行自动补全建议，批量录入相似物品更省时间。",
+        "ja": "アイテム追加/編集時に、よく使うブランド・カテゴリ・季節情報を入力補完で素早く入れられます。似たアイテムを複数登録する際に入力時間を短縮できます。",
+        "es": "Al añadir o editar, recibe sugerencias de marcas, categorías y temporadas frecuentes. Ahorra tiempo al registrar artículos similares."
       },
       "imageUrl": ""
     }
   ],
   "premiumFeatures": [
+    {
+      "id": "premium_color_filter_items_tab",
+      "cellTitle": {
+        "ko": "Premium - 아이템 탭 컬러 필터링",
+        "en": "Premium - Color Filters in Items",
+        "zh-Hans": "高级功能 - 物品页颜色筛选",
+        "ja": "プレミアム - アイテムのカラーフィルター",
+        "es": "Premium - Filtros por color"
+      },
+      "detailTitle": {
+        "ko": "아이템 탭에서 컬러별로 필터링",
+        "en": "Filter items by color in the Items tab",
+        "zh-Hans": "在物品页按颜色筛选",
+        "ja": "アイテムタブで色ごとに絞り込み",
+        "es": "Filtra por color en Artículos"
+      },
+      "description": {
+        "ko": "아이템 탭에서 컬러를 기준으로 아이템을 필터링할 수 있습니다. 자주 입는 색상 위주로 옷을 빠르게 모아 보고, 코디 선택 시간을 줄일 수 있습니다.",
+        "en": "Filter items in the Items tab by color. Quickly group items by the colors you wear most and reduce outfit-picking time.",
+        "zh-Hans": "可在物品页按颜色进行筛选，快速聚合常穿颜色的单品，减少搭配时间。",
+        "ja": "アイテムタブで色で絞り込めます。よく着る色を中心に素早く探せて、コーデ選びの時間を短縮できます。",
+        "es": "Filtra por color. Agrupa rápido los colores que más usas y ahorra tiempo al elegir outfits."
+      },
+      "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-11-26%20at%2014.39.45.png"
+    },
+    {
+      "id": "premium_color_property",
+      "cellTitle": {
+        "ko": "Premium - 아이템 컬러 속성",
+        "en": "Premium - Item Color Attribute",
+        "zh-Hans": "高级功能 - 物品颜色属性",
+        "ja": "プレミアム - アイテムのカラー属性",
+        "es": "Premium - Atributo de color"
+      },
+      "detailTitle": {
+        "ko": "아이템에 대표 컬러를 저장",
+        "en": "Save a main color for each item",
+        "zh-Hans": "为每个物品保存代表颜色",
+        "ja": "各アイテムに代表カラーを保存",
+        "es": "Guarda un color principal"
+      },
+      "description": {
+        "ko": "각 아이템마다 대표 컬러 정보를 저장할 수 있습니다. 이 정보는 컬러 필터링, 추천, 통계 등에서 활용됩니다.",
+        "en": "Save a main color for each item. This will be used for color filters, recommendations, and stats.",
+        "zh-Hans": "可为每个物品保存代表颜色信息，用于颜色筛选、推荐与统计等功能。",
+        "ja": "各アイテムに代表カラーを保存できます。カラー絞り込み・おすすめ・統計などで活用されます。",
+        "es": "Guarda un color principal por artículo. Se usará en filtros, recomendaciones y estadísticas."
+      },
+      "imageUrl": ""
+    },
+    {
+      "id": "premium_style_tags",
+      "cellTitle": {
+        "ko": "Premium - 아이템 스타일 태그",
+        "en": "Premium - Style Tags",
+        "zh-Hans": "高级功能 - 风格标签",
+        "ja": "プレミアム - スタイルタグ",
+        "es": "Premium - Etiquetas de estilo"
+      },
+      "detailTitle": {
+        "ko": "아이템에 스타일 태그 추가",
+        "en": "Add style tags to items",
+        "zh-Hans": "为物品添加风格标签",
+        "ja": "アイテムにスタイルタグを追加",
+        "es": "Añade etiquetas de estilo"
+      },
+      "description": {
+        "ko": "캐주얼, 포멀, 미니멀, 스트리트 같은 스타일 태그를 아이템에 추가할 수 있습니다. 스타일별로 모아 보기와 추천 알고리즘에 함께 반영됩니다.",
+        "en": "Add style tags like casual, formal, minimal, or street. Use them to group items by style and power smarter recommendations.",
+        "zh-Hans": "可为物品添加休闲、正式、极简、街头等风格标签，用于按风格聚合查看并增强推荐效果。",
+        "ja": "カジュアル、フォーマル、ミニマル、ストリートなどのスタイルタグを追加できます。スタイル別の一覧やおすすめにも反映されます。",
+        "es": "Añade etiquetas como casual, formal, minimal o street. Agrupa por estilo y mejora las recomendaciones."
+      },
+      "imageUrl": ""
+    },
     {
       "id": "premium_recommendation_algorithm",
       "cellTitle": {
