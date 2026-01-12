@@ -3,21 +3,22 @@
   "title": {
     "ko": "v3 신규 기능 및 유료 기능 추가",
     "en": "v3 New Features & Premium Add-ons",
-    "ja": "v3 新機能とプレミアム機能の追加",
     "zh-Hans": "v3 新功能与高级功能更新",
+    "ja": "v3 新機能とプレミアム機能の追加",
     "es": "Novedades v3 y funciones Premium",
     "fr": "Nouvelles fonctionnalités v3 et options Premium",
     "de": "v3 Neue Funktionen und Premium-Features"
   },
   "updatedAt": "2026-01-12T00:00:00Z",
+
   "freeFeatures": [
     {
       "id": "free_style_board",
       "cellTitle": {
         "ko": "신기능 - 스타일 보드",
         "en": "New - Style Board",
-        "ja": "新機能 - スタイルボード",
         "zh-Hans": "新功能 - 风格看板",
+        "ja": "新機能 - スタイルボード",
         "es": "Nuevo - Tablero de estilo",
         "fr": "Nouveau - Tableau de style",
         "de": "Neu - Stilboard"
@@ -25,101 +26,104 @@
       "detailTitle": {
         "ko": "스타일 탭에 스타일 보드 기능 추가",
         "en": "Style board added to the Style tab",
-        "ja": "スタイルタブにスタイルボードを追加",
         "zh-Hans": "在风格页新增风格看板",
+        "ja": "スタイルタブにスタイルボードを追加",
         "es": "Se añadió el tablero de estilo",
         "fr": "Ajout du tableau de style",
         "de": "Stilboard im Stil-Tab hinzugefügt"
       },
       "description": {
-        "ko": "스타일 탭에서 스타일 보드를 통해 코디를 한눈에 미리 볼 수 있습니다. 여러 스타일을 빠르게 비교할 수 있습니다.",
-        "en": "Preview outfits at a glance with the style board and quickly compare different looks.",
-        "ja": "スタイルボードでコーデを一目で確認し、複数のスタイルを比較できます。",
-        "zh-Hans": "通过风格看板一眼查看穿搭并快速对比不同风格。",
-        "es": "Previsualiza outfits y compara estilos fácilmente.",
-        "fr": "Visualisez et comparez rapidement vos tenues.",
-        "de": "Outfits auf einen Blick ansehen und vergleichen."
+        "ko": "스타일 탭에서 스타일 보드를 통해 한눈에 코디를 미리 볼 수 있습니다.",
+        "en": "Preview outfits at a glance using the style board.",
+        "zh-Hans": "通过风格看板一眼查看整体穿搭。",
+        "ja": "スタイルボードでコーデを一目で確認できます。",
+        "es": "Previsualiza outfits de un vistazo.",
+        "fr": "Visualisez vos tenues en un coup d’œil.",
+        "de": "Outfits auf einen Blick ansehen."
       },
       "imageUrl": ""
     },
+
     {
       "id": "free_like_pin_top",
       "cellTitle": {
-        "ko": "신기능 - 좋아요(즐겨찾기)",
-        "en": "New - Likes (Favorites)",
-        "ja": "新機能 - いいね（お気に入り）",
-        "zh-Hans": "新功能 - 喜欢（收藏）",
-        "es": "Nuevo - Me gusta (Favoritos)",
-        "fr": "Nouveau - Favoris",
-        "de": "Neu - Favoriten"
+        "ko": "신기능 - 좋아요 기능",
+        "en": "New - Likes",
+        "zh-Hans": "新功能 - 喜欢",
+        "ja": "新機能 - いいね",
+        "es": "Nuevo - Me gusta",
+        "fr": "Nouveau - J’aime",
+        "de": "Neu - Likes"
       },
       "detailTitle": {
-        "ko": "좋아요한 아이템을 상단에 고정",
-        "en": "Pin liked items to the top",
-        "ja": "いいねしたアイテムを上部に固定",
-        "zh-Hans": "将喜欢的单品固定在顶部",
-        "es": "Fija los favoritos arriba",
-        "fr": "Épinglez vos favoris en haut",
-        "de": "Favoriten oben anheften"
+        "ko": "좋아요한 아이템을 상단에서 확인",
+        "en": "See liked items at the top",
+        "zh-Hans": "在顶部查看喜欢的单品",
+        "ja": "いいねしたアイテムを上部に表示",
+        "es": "Ver favoritos en la parte superior",
+        "fr": "Voir les favoris en haut",
+        "de": "Favoriten oben anzeigen"
       },
       "description": {
-        "ko": "좋아요 기능을 통해 즐겨찾는 아이템을 상단에서 바로 확인할 수 있습니다.",
-        "en": "Liked items are pinned to the top for quick access.",
+        "ko": "좋아요 기능을 추가하여 즐겨찾는 아이템을 상단에서 확인할 수 있습니다.",
+        "en": "Mark items as liked and access them quickly at the top.",
+        "zh-Hans": "将常用单品标记为喜欢并快速查看。",
         "ja": "お気に入りのアイテムをすぐ確認できます。",
-        "zh-Hans": "常用单品可快速查看。",
         "es": "Accede rápidamente a tus favoritos.",
         "fr": "Accédez rapidement à vos articles préférés.",
         "de": "Schneller Zugriff auf Lieblingsartikel."
       },
       "imageUrl": ""
     },
+
     {
       "id": "free_language_support_7",
       "cellTitle": {
         "ko": "신기능 - 7개국어 지원",
-        "en": "New - 7 Languages",
+        "en": "New - 7 Languages Supported",
+        "zh-Hans": "新功能 - 支持7种语言",
         "ja": "新機能 - 7言語対応",
-        "zh-Hans": "新功能 - 7种语言",
-        "es": "Nuevo - 7 idiomas",
-        "fr": "Nouveau - 7 langues",
-        "de": "Neu - 7 Sprachen"
+        "es": "Nuevo - Soporte para 7 idiomas",
+        "fr": "Nouveau - Support de 7 langues",
+        "de": "Neu - Unterstützung für 7 Sprachen"
       },
       "detailTitle": {
-        "ko": "독일어, 프랑스어 추가",
+        "ko": "독일어, 프랑스어 추가 지원",
         "en": "German and French added",
-        "ja": "ドイツ語・フランス語追加",
         "zh-Hans": "新增德语和法语",
+        "ja": "ドイツ語・フランス語追加",
         "es": "Alemán y francés añadidos",
         "fr": "Ajout de l’allemand et du français",
         "de": "Deutsch und Französisch hinzugefügt"
       },
       "description": {
-        "ko": "이제 총 7개 언어로 앱을 사용할 수 있습니다.",
-        "en": "The app now supports 7 languages.",
+        "ko": "독일어와 프랑스어가 새롭게 추가되어 이제 총 7개 언어를 지원합니다.",
+        "en": "German and French were added, bringing the total to 7 languages.",
+        "zh-Hans": "新增德语和法语，现在共支持7种语言。",
         "ja": "合計7言語に対応しました。",
-        "zh-Hans": "现支持7种语言。",
         "es": "Ahora disponible en 7 idiomas.",
-        "fr": "Disponible en 7 langues.",
-        "de": "Jetzt in 7 Sprachen verfügbar."
+        "fr": "Disponible désormais en 7 langues.",
+        "de": "Jetzt insgesamt 7 Sprachen verfügbar."
       },
       "imageUrl": ""
     },
+
     {
       "id": "free_sorting_items_styles",
       "cellTitle": {
         "ko": "신기능 - 정렬 기능",
         "en": "New - Sorting",
-        "ja": "新機能 - 並び替え",
         "zh-Hans": "新功能 - 排序",
+        "ja": "新機能 - 並び替え",
         "es": "Nuevo - Ordenar",
         "fr": "Nouveau - Tri",
         "de": "Neu - Sortierung"
       },
       "detailTitle": {
-        "ko": "아이템 / 스타일 정렬 옵션 추가",
+        "ko": "아이템과 스타일 정렬 옵션 추가",
         "en": "Sorting options added",
-        "ja": "並び替えオプション追加",
         "zh-Hans": "新增排序选项",
+        "ja": "並び替えオプション追加",
         "es": "Opciones de orden añadidas",
         "fr": "Options de tri ajoutées",
         "de": "Sortieroptionen hinzugefügt"
@@ -127,106 +131,237 @@
       "description": {
         "ko": "아이템 탭과 스타일 탭에서 원하는 기준으로 정렬할 수 있습니다.",
         "en": "Sort items and styles the way you want.",
+        "zh-Hans": "可按需要排序。",
         "ja": "好みの基準で並び替えできます。",
-        "zh-Hans": "可自由排序。",
         "es": "Ordena como prefieras.",
         "fr": "Triez selon vos préférences.",
         "de": "Nach Wunsch sortieren."
       },
       "imageUrl": ""
     },
+
     {
       "id": "free_season_filter_items_tab",
       "cellTitle": {
         "ko": "신기능 - 아이템 탭 계절 필터링",
-        "en": "New - Season Filters in Items",
-        "ja": "新機能 - 季節フィルター",
+        "en": "New - Season Filters",
         "zh-Hans": "新功能 - 季节筛选",
+        "ja": "新機能 - 季節フィルター",
         "es": "Nuevo - Filtro por temporada",
         "fr": "Nouveau - Filtres par saison",
         "de": "Neu - Saisonfilter"
       },
       "detailTitle": {
-        "ko": "아이템 탭에서 계절별로 필터링",
+        "ko": "계절별 아이템 필터링",
         "en": "Filter items by season",
-        "ja": "季節ごとに絞り込み",
         "zh-Hans": "按季节筛选",
-        "es": "Filtra por temporada",
+        "ja": "季節ごとに絞り込み",
+        "es": "Filtrar por temporada",
         "fr": "Filtrer par saison",
         "de": "Nach Saison filtern"
       },
       "description": {
-        "ko": "계절별로 아이템을 모아 보고, 지금 시즌에 맞는 옷을 빠르게 확인할 수 있습니다.",
+        "ko": "계절별로 옷을 모아 보고 지금 시즌에 맞는 아이템을 빠르게 확인할 수 있습니다.",
         "en": "Group items by season and find what fits the current time of year.",
-        "ja": "今の季節に合う服をすぐ確認できます。",
         "zh-Hans": "快速查看当季服装。",
-        "es": "Encuentra rápidamente lo adecuado para la temporada.",
-        "fr": "Trouvez rapidement les vêtements adaptés à la saison.",
+        "ja": "今の季節に合う服をすぐ確認できます。",
+        "es": "Encuentra lo adecuado para la temporada.",
+        "fr": "Trouvez les vêtements adaptés à la saison.",
         "de": "Passende Kleidung für die Saison finden."
-      },
-      "imageUrl": ""
-    },
-    {
-      "id": "free_season_property",
-      "cellTitle": {
-        "ko": "신기능 - 아이템 계절 속성",
-        "en": "New - Season Attribute",
-        "ja": "新機能 - 季節属性",
-        "zh-Hans": "新功能 - 季节属性",
-        "es": "Nuevo - Atributo de temporada",
-        "fr": "Nouveau - Attribut de saison",
-        "de": "Neu - Saisonattribut"
-      },
-      "detailTitle": {
-        "ko": "아이템에 계절 정보 저장",
-        "en": "Save season info",
-        "ja": "季節情報を保存",
-        "zh-Hans": "保存季节信息",
-        "es": "Guardar temporada",
-        "fr": "Enregistrer la saison",
-        "de": "Saison speichern"
-      },
-      "description": {
-        "ko": "추천, 필터링, 통계에 활용됩니다.",
-        "en": "Used for filters, recommendations, and stats.",
-        "ja": "推薦や統計に活用されます。",
-        "zh-Hans": "用于推荐与统计。",
-        "es": "Se usa para filtros y estadísticas.",
-        "fr": "Utilisé pour filtres et statistiques.",
-        "de": "Für Filter und Statistiken genutzt."
       },
       "imageUrl": ""
     }
   ],
+
   "premiumFeatures": [
     {
       "id": "premium_color_filter_items_tab",
       "cellTitle": {
-        "ko": "Premium - 컬러 필터링",
-        "en": "Premium - Color Filters",
-        "ja": "プレミアム - カラーフィルター",
+        "ko": "Premium - 아이템 탭 컬러 필터링",
+        "en": "Premium - Color Filters in Items",
         "zh-Hans": "高级功能 - 颜色筛选",
+        "ja": "プレミアム - カラーフィルター",
         "es": "Premium - Filtro por color",
         "fr": "Premium - Filtres par couleur",
         "de": "Premium - Farbfilter"
       },
       "detailTitle": {
-        "ko": "컬러별 아이템 필터링",
-        "en": "Filter by color",
-        "ja": "色で絞り込み",
+        "ko": "아이템 탭에서 컬러별로 필터링",
+        "en": "Filter items by color",
         "zh-Hans": "按颜色筛选",
+        "ja": "色で絞り込み",
         "es": "Filtrar por color",
         "fr": "Filtrer par couleur",
         "de": "Nach Farbe filtern"
       },
       "description": {
-        "ko": "자주 입는 색상 위주로 빠르게 확인할 수 있습니다.",
-        "en": "Quickly find items by color.",
-        "ja": "色で素早く探せます。",
-        "zh-Hans": "快速按颜色查找。",
-        "es": "Encuentra por color rápidamente.",
+        "ko": "컬러 기준으로 아이템을 필터링해 자주 입는 색상을 빠르게 확인할 수 있습니다.",
+        "en": "Filter items by color to quickly find what you wear most.",
+        "zh-Hans": "按颜色快速筛选常穿单品。",
+        "ja": "よく着る色を素早く確認できます。",
+        "es": "Encuentra rápidamente por color.",
         "fr": "Trouvez rapidement par couleur.",
-        "de": "Schnell nach Farbe finden."
+        "de": "Schnell nach Farbe filtern."
+      },
+      "imageUrl": ""
+    },
+
+    {
+      "id": "premium_color_property",
+      "cellTitle": {
+        "ko": "Premium - 아이템 컬러 속성",
+        "en": "Premium - Item Color Attribute",
+        "zh-Hans": "高级功能 - 颜色属性",
+        "ja": "プレミアム - カラー属性",
+        "es": "Premium - Atributo de color",
+        "fr": "Premium - Attribut de couleur",
+        "de": "Premium - Farbattribut"
+      },
+      "detailTitle": {
+        "ko": "아이템에 대표 컬러 저장",
+        "en": "Save a main color",
+        "zh-Hans": "保存代表颜色",
+        "ja": "代表カラーを保存",
+        "es": "Guardar color principal",
+        "fr": "Enregistrer la couleur principale",
+        "de": "Hauptfarbe speichern"
+      },
+      "description": {
+        "ko": "대표 컬러 정보는 추천, 통계, 컬러 필터링에 활용됩니다.",
+        "en": "Main color is used for recommendations and stats.",
+        "zh-Hans": "用于推荐和统计。",
+        "ja": "おすすめや統計に活用されます。",
+        "es": "Se usa para recomendaciones y estadísticas.",
+        "fr": "Utilisé pour recommandations et statistiques.",
+        "de": "Für Empfehlungen und Statistiken genutzt."
+      },
+      "imageUrl": ""
+    },
+
+    {
+      "id": "premium_style_tags",
+      "cellTitle": {
+        "ko": "Premium - 아이템 스타일 태그",
+        "en": "Premium - Style Tags",
+        "zh-Hans": "高级功能 - 风格标签",
+        "ja": "プレミアム - スタイルタグ",
+        "es": "Premium - Etiquetas de estilo",
+        "fr": "Premium - Tags de style",
+        "de": "Premium - Stil-Tags"
+      },
+      "detailTitle": {
+        "ko": "스타일 태그 추가",
+        "en": "Add style tags",
+        "zh-Hans": "添加风格标签",
+        "ja": "スタイルタグを追加",
+        "es": "Añadir etiquetas de estilo",
+        "fr": "Ajouter des tags de style",
+        "de": "Stil-Tags hinzufügen"
+      },
+      "description": {
+        "ko": "캐주얼, 포멀 등 스타일별로 아이템을 관리할 수 있습니다.",
+        "en": "Manage items by style such as casual or formal.",
+        "zh-Hans": "按风格管理单品。",
+        "ja": "スタイル別に管理できます。",
+        "es": "Gestiona por estilo.",
+        "fr": "Gérez par style.",
+        "de": "Nach Stil verwalten."
+      },
+      "imageUrl": ""
+    },
+
+    {
+      "id": "premium_recommendation_algorithm",
+      "cellTitle": {
+        "ko": "Premium - 추천 알고리즘",
+        "en": "Premium - Recommendation Algorithm",
+        "zh-Hans": "高级功能 - 推荐算法",
+        "ja": "プレミアム - レコメンドアルゴリズム",
+        "es": "Premium - Algoritmo de recomendaciones",
+        "fr": "Premium - Algorithme de recommandations",
+        "de": "Premium - Empfehlungsalgorithmus"
+      },
+      "detailTitle": {
+        "ko": "오늘의 추천 아이템",
+        "en": "Today's recommendations",
+        "zh-Hans": "今日推荐",
+        "ja": "今日のおすすめ",
+        "es": "Recomendaciones de hoy",
+        "fr": "Recommandations du jour",
+        "de": "Empfehlungen für heute"
+      },
+      "description": {
+        "ko": "날씨, 계절, 착용 히스토리를 기반으로 오늘 입기 좋은 아이템을 추천합니다.",
+        "en": "Recommends items based on weather, season, and wear history.",
+        "zh-Hans": "基于天气、季节和穿着记录推荐。",
+        "ja": "天気や履歴を基におすすめします。",
+        "es": "Recomienda según clima y uso.",
+        "fr": "Recommandé selon la météo et l’historique.",
+        "de": "Empfehlungen basierend auf Wetter und Nutzung."
+      },
+      "imageUrl": ""
+    },
+
+    {
+      "id": "premium_recommended_items_in_info",
+      "cellTitle": {
+        "ko": "Premium - 함께 입으면 좋은 아이템",
+        "en": "Premium - Great Pairing Items",
+        "zh-Hans": "高级功能 - 搭配推荐",
+        "ja": "プレミアム - 相性の良いアイテム",
+        "es": "Premium - Artículos que combinan",
+        "fr": "Premium - Articles assortis",
+        "de": "Premium - Passende Artikel"
+      },
+      "detailTitle": {
+        "ko": "추천 코디 아이템",
+        "en": "Recommended pairings",
+        "zh-Hans": "推荐搭配",
+        "ja": "おすすめコーデ",
+        "es": "Combinaciones recomendadas",
+        "fr": "Associations recommandées",
+        "de": "Empfohlene Kombinationen"
+      },
+      "description": {
+        "ko": "해당 아이템과 잘 어울리는 조합을 자동으로 추천합니다.",
+        "en": "Automatically suggests items that pair well.",
+        "zh-Hans": "自动推荐搭配。",
+        "ja": "相性の良い組み合わせを提案します。",
+        "es": "Sugiere combinaciones automáticamente.",
+        "fr": "Suggestions automatiques d’associations.",
+        "de": "Automatische Kombinationsvorschläge."
+      },
+      "imageUrl": ""
+    },
+
+    {
+      "id": "premium_home_stats",
+      "cellTitle": {
+        "ko": "Premium - 홈 통계",
+        "en": "Premium - Home Stats",
+        "zh-Hans": "高级功能 - 首页统计",
+        "ja": "プレミアム - ホーム統計",
+        "es": "Premium - Estadísticas",
+        "fr": "Premium - Statistiques",
+        "de": "Premium - Statistiken"
+      },
+      "detailTitle": {
+        "ko": "옷장 통계 분석",
+        "en": "Wardrobe statistics",
+        "zh-Hans": "衣橱统计",
+        "ja": "クローゼット統計",
+        "es": "Estadísticas del armario",
+        "fr": "Statistiques du dressing",
+        "de": "Kleiderschrank-Statistiken"
+      },
+      "description": {
+        "ko": "착용 빈도, 컬러 분포, 브랜드 통계를 통해 옷장 활용도를 한눈에 확인할 수 있습니다.",
+        "en": "Analyze wear frequency, colors, and brands at a glance.",
+        "zh-Hans": "一眼查看穿着频率和颜色分布。",
+        "ja": "着用頻度やカラーを確認できます。",
+        "es": "Consulta estadísticas de uso y colores.",
+        "fr": "Analysez l’utilisation et les couleurs.",
+        "de": "Tragehäufigkeit und Farben analysieren."
       },
       "imageUrl": ""
     }
