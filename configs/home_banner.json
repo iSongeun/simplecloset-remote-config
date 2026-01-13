@@ -1,29 +1,29 @@
 {
   "version": 3,
   "title": {
-    "ko": "v3 신규 기능 및 유료 기능 추가",
-    "en": "v3 New Features & Premium Add-ons",
-    "zh-Hans": "v3 新功能与高级功能更新",
-    "ja": "v3 新機能とプレミアム機能の追加",
-    "es": "Novedades v3 y funciones Premium",
-    "fr": "Nouvelles fonctionnalités v3 et options Premium",
-    "de": "v3 Neue Funktionen und Premium-Features"
+    "ko": "업데이트",
+    "en": "Updates",
+    "zh-Hans": "更新",
+    "ja": "アップデート",
+    "es": "Actualizaciones",
+    "fr": "Mises à jour",
+    "de": "Updates"
   },
   "updatedAt": "2026-01-13T00:00:00Z",
   "freeFeatures": [
     {
       "id": "free_style_board",
       "cellTitle": {
-        "ko": "[v3.2] 신기능 - 스타일 보드",
-        "en": "[v3.2] New - Style Board",
-        "zh-Hans": "[v3.2] 新功能 - 风格看板",
-        "ja": "[v3.2] 新機能 - スタイルボード",
-        "es": "[v3.2] Nuevo - Tablero de estilo",
-        "fr": "[v3.2] Nouveau - Tableau de style",
-        "de": "[v3.2] Neu - Stilboard"
+        "ko": "스타일 보드",
+        "en": "Style Board",
+        "zh-Hans": "风格看板",
+        "ja": "スタイルボード",
+        "es": "Tablero de estilo",
+        "fr": "Tableau de style",
+        "de": "Stilboard"
       },
       "detailTitle": {
-        "ko": "스타일 탭에 스타일 보드 기능 추가",
+        "ko": "스타일 탭에 스타일 보드 추가",
         "en": "Style board added to the Style tab",
         "zh-Hans": "在风格页新增风格看板",
         "ja": "スタイルタブにスタイルボードを追加",
@@ -32,7 +32,7 @@
         "de": "Stilboard im Stil-Tab hinzugefügt"
       },
       "description": {
-        "ko": "스타일 탭에서 스타일 보드를 통해 한눈에 코디를 미리 볼 수 있습니다. 여러 스타일을 빠르게 비교하고 원하는 코디를 쉽게 찾을 수 있습니다.",
+        "ko": "스타일 탭에서 스타일 보드로 코디를 한눈에 미리 볼 수 있습니다. 여러 스타일을 빠르게 비교하고 원하는 코디를 쉽게 찾을 수 있습니다.",
         "en": "Preview outfits at a glance with the style board in the Style tab. Quickly compare different looks and find what you want.",
         "zh-Hans": "通过风格页的风格看板，一眼预览穿搭并快速对比不同风格，轻松找到想要的造型。",
         "ja": "スタイルタブのスタイルボードでコーデを一目で確認できます。複数のスタイルを素早く比較して探せます。",
@@ -45,13 +45,13 @@
     {
       "id": "free_like_pin_top",
       "cellTitle": {
-        "ko": "[v3.2] 신기능 - 좋아요(즐겨찾기)",
-        "en": "[v3.2] New - Likes (Favorites)",
-        "zh-Hans": "[v3.2] 新功能 - 喜欢（收藏）",
-        "ja": "[v3.2] 新機能 - いいね（お気に入り）",
-        "es": "[v3.2] Nuevo - Me gusta (Favoritos)",
-        "fr": "[v3.2] Nouveau - Favoris",
-        "de": "[v3.2] Neu - Favoriten"
+        "ko": "좋아요",
+        "en": "Likes",
+        "zh-Hans": "喜欢",
+        "ja": "いいね",
+        "es": "Me gusta",
+        "fr": "Favoris",
+        "de": "Favoriten"
       },
       "detailTitle": {
         "ko": "좋아요한 아이템을 상단에서 확인",
@@ -63,7 +63,7 @@
         "de": "Favoriten oben anzeigen"
       },
       "description": {
-        "ko": "좋아요 기능을 추가하여 즐겨찾는 아이템을 상단에서 확인할 수 있습니다. 자주 찾는 아이템을 더 빠르게 꺼내 볼 수 있습니다.",
+        "ko": "좋아요한 아이템을 상단에서 빠르게 확인할 수 있습니다. 자주 찾는 아이템을 더 쉽게 꺼내 볼 수 있습니다.",
         "en": "Mark items as liked and keep your favorites at the top for quick access—perfect for items you reach for often.",
         "zh-Hans": "新增喜欢功能，将常用单品置顶显示，快速找到你经常穿的衣物。",
         "ja": "いいね機能でお気に入りを上部に表示。よく使うアイテムを素早く確認できます。",
@@ -76,13 +76,13 @@
     {
       "id": "free_language_support_7",
       "cellTitle": {
-        "ko": "[v3.2] 신기능 - 7개국어 지원",
-        "en": "[v3.2] New - 7 Languages Supported",
-        "zh-Hans": "[v3.2] 新功能 - 支持7种语言",
-        "ja": "[v3.2] 新機能 - 7言語対応",
-        "es": "[v3.2] Nuevo - Soporte para 7 idiomas",
-        "fr": "[v3.2] Nouveau - Support de 7 langues",
-        "de": "[v3.2] Neu - Unterstützung für 7 Sprachen"
+        "ko": "7개국어 지원",
+        "en": "7 Languages Supported",
+        "zh-Hans": "支持7种语言",
+        "ja": "7言語対応",
+        "es": "Soporte para 7 idiomas",
+        "fr": "Support de 7 langues",
+        "de": "Unterstützung für 7 Sprachen"
       },
       "detailTitle": {
         "ko": "독일어, 프랑스어 추가 지원",
@@ -107,13 +107,13 @@
     {
       "id": "free_sorting_items_styles",
       "cellTitle": {
-        "ko": "[v3.2] 신기능 - 정렬 기능",
-        "en": "[v3.2] New - Sorting",
-        "zh-Hans": "[v3.2] 新功能 - 排序",
-        "ja": "[v3.2] 新機能 - 並び替え",
-        "es": "[v3.2] Nuevo - Ordenar",
-        "fr": "[v3.2] Nouveau - Tri",
-        "de": "[v3.2] Neu - Sortierung"
+        "ko": "정렬",
+        "en": "Sorting",
+        "zh-Hans": "排序",
+        "ja": "並び替え",
+        "es": "Ordenar",
+        "fr": "Tri",
+        "de": "Sortierung"
       },
       "detailTitle": {
         "ko": "아이템 탭 / 스타일 탭 정렬 옵션 추가",
@@ -138,13 +138,13 @@
     {
       "id": "free_season_filter_items_tab",
       "cellTitle": {
-        "ko": "신기능 - 아이템 탭 계절 필터링",
-        "en": "New - Season Filters in Items",
-        "zh-Hans": "新功能 - 单品页季节筛选",
-        "ja": "新機能 - アイテムの季節フィルター",
-        "es": "Nuevo - Filtros por temporada",
-        "fr": "Nouveau - Filtres par saison",
-        "de": "Neu - Saisonfilter"
+        "ko": "아이템 탭 계절 필터",
+        "en": "Season Filters in Items",
+        "zh-Hans": "单品页季节筛选",
+        "ja": "アイテムの季節フィルター",
+        "es": "Filtros por temporada",
+        "fr": "Filtres par saison",
+        "de": "Saisonfilter"
       },
       "detailTitle": {
         "ko": "아이템 탭에서 계절별로 필터링",
@@ -169,13 +169,13 @@
     {
       "id": "free_season_property",
       "cellTitle": {
-        "ko": "신기능 - 아이템 계절 속성 추가",
-        "en": "New - Item Season Attribute",
-        "zh-Hans": "新功能 - 单品季节属性",
-        "ja": "新機能 - アイテムに季節属性追加",
-        "es": "Nuevo - Atributo de temporada",
-        "fr": "Nouveau - Attribut de saison",
-        "de": "Neu - Saisonattribut"
+        "ko": "아이템 계절 속성",
+        "en": "Item Season Attribute",
+        "zh-Hans": "单品季节属性",
+        "ja": "アイテムの季節属性",
+        "es": "Atributo de temporada",
+        "fr": "Attribut de saison",
+        "de": "Saisonattribut"
       },
       "detailTitle": {
         "ko": "아이템에 계절 정보를 저장",
@@ -200,13 +200,13 @@
     {
       "id": "free_wear_history",
       "cellTitle": {
-        "ko": "신기능 - 입은 기록 히스토리",
-        "en": "New - Wear History",
-        "zh-Hans": "新功能 - 穿着记录",
-        "ja": "新機能 - 着用履歴",
-        "es": "Nuevo - Historial de uso",
-        "fr": "Nouveau - Historique de port",
-        "de": "Neu - Tragehistorie"
+        "ko": "입은 기록",
+        "en": "Wear History",
+        "zh-Hans": "穿着记录",
+        "ja": "着用履歴",
+        "es": "Historial de uso",
+        "fr": "Historique de port",
+        "de": "Tragehistorie"
       },
       "detailTitle": {
         "ko": "아이템 인포에 입은 히스토리 추가",
@@ -231,13 +231,13 @@
     {
       "id": "free_notice_banner",
       "cellTitle": {
-        "ko": "신기능 - 공지 배너",
-        "en": "New - Notice Banner",
-        "zh-Hans": "新功能 - 公告横幅",
-        "ja": "新機能 - お知らせバナー",
-        "es": "Nuevo - Banner de avisos",
-        "fr": "Nouveau - Bannière d’infos",
-        "de": "Neu - Hinweisbanner"
+        "ko": "공지 배너",
+        "en": "Notice Banner",
+        "zh-Hans": "公告横幅",
+        "ja": "お知らせバナー",
+        "es": "Banner de avisos",
+        "fr": "Bannière d’infos",
+        "de": "Hinweisbanner"
       },
       "detailTitle": {
         "ko": "공지 배너",
@@ -262,13 +262,13 @@
     {
       "id": "free_three_column_grid",
       "cellTitle": {
-        "ko": "신기능 - 아이템 3개씩 보기",
-        "en": "New - 3-Column Grid",
-        "zh-Hans": "新功能 - 三列网格",
-        "ja": "新機能 - 3列グリッド表示",
-        "es": "Nuevo - Cuadrícula de 3 columnas",
-        "fr": "Nouveau - Grille à 3 colonnes",
-        "de": "Neu - 3-Spalten-Raster"
+        "ko": "3열 그리드",
+        "en": "3-Column Grid",
+        "zh-Hans": "三列网格",
+        "ja": "3列グリッド",
+        "es": "Cuadrícula de 3 columnas",
+        "fr": "Grille à 3 colonnes",
+        "de": "3-Spalten-Raster"
       },
       "detailTitle": {
         "ko": "아이템 한눈에 보기 좋은 3개씩 보기 추가",
@@ -293,13 +293,13 @@
     {
       "id": "free_weekly_calendar",
       "cellTitle": {
-        "ko": "신기능 - 캘린더 주간 보기",
-        "en": "New - Weekly Calendar View",
-        "zh-Hans": "新功能 - 日历周视图",
-        "ja": "新機能 - カレンダー週表示",
-        "es": "Nuevo - Vista semanal del calendario",
-        "fr": "Nouveau - Vue hebdomadaire",
-        "de": "Neu - Wochenansicht im Kalender"
+        "ko": "캘린더 주간 보기",
+        "en": "Weekly Calendar View",
+        "zh-Hans": "日历周视图",
+        "ja": "カレンダー週表示",
+        "es": "Vista semanal del calendario",
+        "fr": "Vue hebdomadaire",
+        "de": "Wochenansicht im Kalender"
       },
       "detailTitle": {
         "ko": "캘린더에 주간 보기 기능 추가",
@@ -320,19 +320,19 @@
         "de": "Der Kalender hat jetzt eine Wochenansicht. Sieh, was du diese Woche getragen hast, und erkenne Outfit-Muster."
       },
       "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/free_1/10.png"
-    },
+    }
   ],
   "premiumFeatures": [
     {
       "id": "premium_color_filter_items_tab",
       "cellTitle": {
-        "ko": "Premium - 아이템 탭 컬러 필터링",
-        "en": "Premium - Color Filters in Items",
-        "zh-Hans": "高级功能 - 单品页颜色筛选",
-        "ja": "プレミアム - アイテムのカラーフィルター",
-        "es": "Premium - Filtros por color",
-        "fr": "Premium - Filtres par couleur",
-        "de": "Premium - Farbfilter"
+        "ko": "컬러 필터",
+        "en": "Color Filters",
+        "zh-Hans": "颜色筛选",
+        "ja": "カラーフィルター",
+        "es": "Filtros por color",
+        "fr": "Filtres par couleur",
+        "de": "Farbfilter"
       },
       "detailTitle": {
         "ko": "아이템 탭에서 컬러별로 필터링",
@@ -357,13 +357,13 @@
     {
       "id": "premium_color_property",
       "cellTitle": {
-        "ko": "Premium - 아이템 컬러 속성",
-        "en": "Premium - Item Color Attribute",
-        "zh-Hans": "高级功能 - 单品颜色属性",
-        "ja": "プレミアム - アイテムのカラー属性",
-        "es": "Premium - Atributo de color",
-        "fr": "Premium - Attribut de couleur",
-        "de": "Premium - Farbattribut"
+        "ko": "아이템 컬러 속성",
+        "en": "Item Color Attribute",
+        "zh-Hans": "单品颜色属性",
+        "ja": "アイテムのカラー属性",
+        "es": "Atributo de color",
+        "fr": "Attribut de couleur",
+        "de": "Farbattribut"
       },
       "detailTitle": {
         "ko": "아이템에 대표 컬러를 저장",
@@ -388,13 +388,13 @@
     {
       "id": "premium_style_tags",
       "cellTitle": {
-        "ko": "Premium - 아이템 스타일 태그",
-        "en": "Premium - Style Tags",
-        "zh-Hans": "高级功能 - 风格标签",
-        "ja": "プレミアム - スタイルタグ",
-        "es": "Premium - Etiquetas de estilo",
-        "fr": "Premium - Tags de style",
-        "de": "Premium - Stil-Tags"
+        "ko": "스타일 태그",
+        "en": "Style Tags",
+        "zh-Hans": "风格标签",
+        "ja": "スタイルタグ",
+        "es": "Etiquetas de estilo",
+        "fr": "Tags de style",
+        "de": "Stil-Tags"
       },
       "detailTitle": {
         "ko": "아이템에 스타일 태그 추가",
@@ -419,13 +419,13 @@
     {
       "id": "premium_recommendation_algorithm",
       "cellTitle": {
-        "ko": "Premium 신기능 - 추천 알고리즘",
-        "en": "Premium - Recommendation Algorithm",
-        "zh-Hans": "高级功能 - 推荐算法",
-        "ja": "プレミアム - レコメンドアルゴリズム",
-        "es": "Premium - Algoritmo de recomendaciones",
-        "fr": "Premium - Algorithme de recommandations",
-        "de": "Premium - Empfehlungsalgorithmus"
+        "ko": "추천",
+        "en": "Recommendations",
+        "zh-Hans": "推荐",
+        "ja": "おすすめ",
+        "es": "Recomendaciones",
+        "fr": "Recommandations",
+        "de": "Empfehlungen"
       },
       "detailTitle": {
         "ko": "추천 알고리즘",
@@ -450,13 +450,13 @@
     {
       "id": "premium_recommended_items_in_info",
       "cellTitle": {
-        "ko": "Premium 신기능 - 함께 입으면 좋은 아이템",
-        "en": "Premium - Great Pairing Items",
-        "zh-Hans": "高级功能 - 搭配推荐单品",
-        "ja": "プレミアム - 相性の良いアイテム",
-        "es": "Premium - Artículos que combinan",
-        "fr": "Premium - Articles assortis",
-        "de": "Premium - Passende Kombinationen"
+        "ko": "함께 입으면 좋은 아이템",
+        "en": "Great Pairings",
+        "zh-Hans": "搭配推荐单品",
+        "ja": "相性の良いアイテム",
+        "es": "Artículos que combinan",
+        "fr": "Articles assortis",
+        "de": "Passende Kombinationen"
       },
       "detailTitle": {
         "ko": "아이템 인포에 추천 아이템 추가",
@@ -481,13 +481,13 @@
     {
       "id": "premium_home_stats",
       "cellTitle": {
-        "ko": "Premium 신기능 - 홈 통계",
-        "en": "Premium - Home Stats",
-        "zh-Hans": "高级功能 - 首页统计",
-        "ja": "プレミアム - ホーム統計",
-        "es": "Premium - Estadísticas en inicio",
-        "fr": "Premium - Statistiques d’accueil",
-        "de": "Premium - Statistiken auf der Startseite"
+        "ko": "홈 통계",
+        "en": "Home Stats",
+        "zh-Hans": "首页统计",
+        "ja": "ホーム統計",
+        "es": "Estadísticas",
+        "fr": "Statistiques d’accueil",
+        "de": "Startseiten-Statistiken"
       },
       "detailTitle": {
         "ko": "홈 통계 기능 추가",
