@@ -321,37 +321,6 @@
       },
       "imageUrl": ""
     },
-    {
-      "id": "free_autocomplete",
-      "cellTitle": {
-        "ko": "신기능 - 아이템 자동완성",
-        "en": "New - Item Auto-Complete",
-        "zh-Hans": "新功能 - 输入自动补全",
-        "ja": "新機能 - 入力オートコンプリート",
-        "es": "Nuevo - Autocompletar",
-        "fr": "Nouveau - Saisie automatique",
-        "de": "Neu - Auto-Vervollständigung"
-      },
-      "detailTitle": {
-        "ko": "아이템 추가/수정 시 자동완성 기능 추가",
-        "en": "Auto-complete when adding/editing items",
-        "zh-Hans": "新增/编辑时自动补全",
-        "ja": "追加/編集時の入力補完",
-        "es": "Autocompletar al añadir/editar",
-        "fr": "Auto-complétion à l’ajout/édition",
-        "de": "Auto-Vervollständigung beim Hinzufügen/Bearbeiten"
-      },
-      "description": {
-        "ko": "아이템을 추가하거나 수정할 때 자주 사용하는 브랜드, 카테고리, 계절 정보를 자동완성으로 빠르게 입력할 수 있습니다. 비슷한 아이템을 여러 개 등록할 때 입력 시간이 줄어듭니다.",
-        "en": "Get suggestions for frequently used brands, categories, and seasons when adding or editing items. It saves time when registering similar items.",
-        "zh-Hans": "新增或编辑时会对常用品牌、分类与季节信息进行自动补全建议，批量录入更省时间。",
-        "ja": "追加/編集時に、よく使うブランド・カテゴリ・季節情報を入力補完で素早く入れられます。",
-        "es": "Recibe sugerencias de marcas, categorías y temporadas frecuentes. Ahorra tiempo al registrar artículos similares.",
-        "fr": "Recevez des suggestions pour marques, catégories et saisons fréquentes. Gagnez du temps lors d’ajouts similaires.",
-        "de": "Vorschläge für häufig genutzte Marken, Kategorien und Saisons sparen Zeit beim Anlegen ähnlicher Artikel."
-      },
-      "imageUrl": ""
-    }
   ],
   "premiumFeatures": [
     {
