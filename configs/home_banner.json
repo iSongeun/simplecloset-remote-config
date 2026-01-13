@@ -352,7 +352,7 @@
         "fr": "Filtrez par couleur. Regroupez rapidement les couleurs que vous portez le plus et gagnez du temps.",
         "de": "Nach Farbe filtern. Häufig getragene Farben schnell bündeln und Zeit bei der Outfitwahl sparen."
       },
-      "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-11-26%20at%2014.39.45.png"
+      "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/premium_1/1.png"
     },
     {
       "id": "premium_color_property",
@@ -383,7 +383,7 @@
         "fr": "Enregistrez une couleur principale par article. Utilisée pour filtres, recommandations et stats.",
         "de": "Speichere eine Hauptfarbe pro Artikel. Wird für Filter, Empfehlungen und Statistiken genutzt."
       },
-      "imageUrl": ""
+      "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/premium_1/2.png"
     },
     {
       "id": "premium_style_tags",
@@ -414,7 +414,7 @@
         "fr": "Ajoutez des tags (casual, formel, minimal, street). Regroupez par style et améliorez les recommandations.",
         "de": "Füge Tags wie casual, formal, minimal oder street hinzu. Nach Stil bündeln und Empfehlungen verbessern."
       },
-      "imageUrl": ""
+      "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/premium_1/3.png"
     },
     {
       "id": "premium_recommendation_algorithm",
@@ -445,7 +445,7 @@
         "fr": "Nous combinons météo, saison, historique de port, couleurs et tags de style pour recommander les articles adaptés à aujourd’hui. Évitez de répéter les mêmes tenues et utilisez mieux votre dressing.",
         "de": "Wir kombinieren Wetter, Saison, Tragehistorie, Farben und Stil-Tags, um passende Artikel für heute zu empfehlen. So wiederholst du weniger und nutzt deinen Kleiderschrank gleichmäßiger."
       },
-      "imageUrl": ""
+      "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/premium_1/4.png"
     },
     {
       "id": "premium_recommended_items_in_info",
@@ -476,7 +476,7 @@
         "fr": "Dans les détails, voyez les articles qui s’associent bien. Suggestions basées sur vos combinaisons fréquentes et les couleurs.",
         "de": "In den Details siehst du passende Artikel. Vorschläge basieren auf häufigen Kombinationen und gut passenden Farben."
       },
-      "imageUrl": ""
+      "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/premium_1/5.png"
     },
     {
       "id": "premium_home_stats",
@@ -507,7 +507,7 @@
         "fr": "Consultez les statistiques de votre dressing sur l’écran d’accueil.\n\n- Nombre total d’articles\n- Fréquence de port par article\n- Répartition par catégorie (camembert)\n- Répartition des couleurs\n- Marques préférées (par fréquence de port)\n- Marques les plus présentes (par quantité)\n- Articles les plus portés le mois dernier\n- Articles de cette saison rarement portés\n- Articles récemment ajoutés\n\nCes stats Premium vous aident à distinguer ce que vous portez vraiment et à mieux planifier l’utilisation de votre dressing.",
         "de": "Sieh dir deine Kleiderschrank-Daten als Statistiken auf der Startseite an.\n\n- Gesamtzahl der Artikel\n- Tragehäufigkeit pro Artikel\n- Kategorienverteilung (Kreisdiagramm)\n- Farbverteilung\n- Lieblingsmarken (nach Tragehäufigkeit)\n- Marken mit den meisten Artikeln (nach Anzahl)\n- Meistgetragene Artikel im letzten Monat\n- Kaum getragene Artikel dieser Saison\n- Kürzlich hinzugefügte Artikel\n\nDiese Premium-Statistiken helfen dir zu erkennen, was du wirklich trägst, und deine Garderobe besser zu nutzen."
       },
-      "imageUrl": ""
+      "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/premium_1/6.png"
     }
   ]
 }
