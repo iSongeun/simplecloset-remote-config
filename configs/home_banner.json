@@ -1,13 +1,13 @@
 {
-  "version": 3,
-  "title": {
-    "ko": "업데이트",
-    "en": "Updates",
-    "zh-Hans": "更新",
-    "ja": "アップデート",
-    "es": "Actualizaciones",
-    "fr": "Mises à jour",
-    "de": "Updates"
+"version": 3, 
+  "title": { 
+    "ko": "v3 신규 기능 및 유료 기능 추가", 
+    "en": "v3 New Features & Premium Add-ons", 
+    "zh-Hans": "v3 新功能与高级功能更新", 
+    "ja": "v3 新機能とプレミアム機能の追加", 
+    "es": "Novedades v3 y funciones Premium", 
+    "fr": "Nouvelles fonctionnalités v3 et options Premium", 
+    "de": "v3 Neue Funktionen und Premium-Features" 
   },
   "updatedAt": "2026-01-13T00:00:00Z",
   "freeFeatures": [
