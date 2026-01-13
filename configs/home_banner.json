@@ -71,7 +71,7 @@
         "fr": "Ajoutez des favoris et retrouvez-les en haut pour un accès rapide, idéal pour vos pièces les plus portées.",
         "de": "Favoriten markieren und oben schnell wiederfinden – ideal für häufig genutzte Teile."
       },
-      "imageUrl": ""
+      "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/free_1/2.png"
     },
     {
       "id": "free_language_support_7",
@@ -102,7 +102,7 @@
         "fr": "L’allemand et le français sont désormais disponibles : au total 7 langues pour utiliser l’app plus facilement.",
         "de": "Jetzt auch auf Deutsch und Französisch – insgesamt 7 Sprachen, damit Sie die App bequemer nutzen können."
       },
-      "imageUrl": ""
+      "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/free_1/3.png"
     },
     {
       "id": "free_sorting_items_styles",
@@ -133,7 +133,7 @@
         "fr": "Triez vos articles et styles selon vos préférences pour une vue plus claire.",
         "de": "Artikel und Stile nach Wunsch sortieren – für mehr Übersicht."
       },
-      "imageUrl": ""
+      "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/free_1/4.png"
     },
     {
       "id": "free_season_filter_items_tab",
@@ -164,7 +164,7 @@
         "fr": "Vous pouvez désormais filtrer les articles par saison (printemps, été, automne, hiver). Regroupez par saison et trouvez vite ce qui convient.",
         "de": "Filtere Artikel nach Saison (Frühling, Sommer, Herbst, Winter). So findest du schnell passende Teile für die aktuelle Jahreszeit."
       },
-      "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-11-26%20at%2014.39.45.png"
+      "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/free_1/5.png"
     },
     {
       "id": "free_season_property",
@@ -195,7 +195,7 @@
         "fr": "Enregistrez la saison qui correspond à chaque article. Utilisé pour recommandations, filtres et statistiques.",
         "de": "Speichere die passende Saison pro Artikel. Wird für Empfehlungen, Filter und Statistiken genutzt."
       },
-      "imageUrl": ""
+      "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/free_1/6.png"
     },
     {
       "id": "free_wear_history",
@@ -226,7 +226,7 @@
         "fr": "Voyez quand vous l’avez porté pour la dernière fois et à quelle fréquence. Repérez aussi les pièces rarement portées.",
         "de": "Sieh, wann du ein Teil zuletzt getragen hast und wie oft. So erkennst du auch selten genutzte Artikel."
       },
-      "imageUrl": ""
+      "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/free_1/7.png"
     },
     {
       "id": "free_notice_banner",
@@ -257,7 +257,7 @@
         "fr": "Une bannière d’infos a été ajoutée en haut. Consultez mises à jour, nouveautés et événements dans l’app.",
         "de": "Oben in der App gibt es jetzt ein Hinweisbanner. Updates, neue Funktionen und Events direkt in der App sehen."
       },
-      "imageUrl": ""
+      "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/free_1/8.png"
     },
     {
       "id": "free_three_column_grid",
@@ -288,7 +288,7 @@
         "fr": "Un mode grille à 3 colonnes est disponible. Parcourez plus d’articles sur un seul écran.",
         "de": "Ein 3-Spalten-Raster ist jetzt verfügbar. So kannst du mehr Artikel auf einem Bildschirm überblicken."
       },
-      "imageUrl": ""
+      "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/free_1/9.png"
     },
     {
       "id": "free_weekly_calendar",
@@ -319,7 +319,7 @@
         "fr": "Le mode hebdomadaire est disponible. Voyez vos tenues de la semaine et repérez vos habitudes.",
         "de": "Der Kalender hat jetzt eine Wochenansicht. Sieh, was du diese Woche getragen hast, und erkenne Outfit-Muster."
       },
-      "imageUrl": ""
+      "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/free_1/10.png"
     },
   ],
   "premiumFeatures": [
