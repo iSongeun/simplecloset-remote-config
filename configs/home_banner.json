@@ -507,7 +507,7 @@
         "fr": "Consultez les données de votre dressing sous forme de statistiques depuis l’écran d’accueil.\n\n- Nombre total d’articles\n- Cycle de port par article\n- Répartition des articles par catégorie (diagramme circulaire)\n- Répartition des couleurs\n- Les 5 articles les plus portés le mois dernier (par fréquence de port)\n- Les 5 articles les plus utilisés dans les tenues le mois dernier (par quantité)\n- Articles récemment ajoutés\n- Votre marque préférée\n- La marque que vous possédez le plus\n\nLes statistiques Premium vous aident à distinguer les vêtements que vous portez vraiment et à mieux planifier l’utilisation de votre dressing.",
         "de": "Sieh dir deine Kleiderschrank-Daten als Statistiken auf der Startseite an.\n\n- Gesamtzahl der Artikel\n- Tragezyklus pro Artikel\n- Artikelverteilung nach Kategorien (Kreisdiagramm)\n- Farbverteilung\n- Die 5 meistgetragenen Artikel des letzten Monats (nach Tragehäufigkeit)\n- Die 5 am häufigsten in Outfits verwendeten Artikel des letzten Monats (nach Anzahl)\n- Kürzlich hinzugefügte Artikel\n- Deine Lieblingsmarke\n- Die Marke, die du am meisten besitzt\n\nDiese Premium-Statistiken helfen dir zu erkennen, welche Kleidung du wirklich trägst, und deine Garderobe gezielt besser zu nutzen."
       },
-      "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/premium%20features/6.%20premium-home-static.png"
+      "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/premium_1/6.png"
     }
   ]
 }
