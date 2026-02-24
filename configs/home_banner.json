@@ -9,7 +9,7 @@
     "fr": "Nouvelles fonctionnalités v3 et options Premium", 
     "de": "v3 Neue Funktionen und Premium-Features" 
   },
-  "updatedAt": "2026-02-06T00:00:00Z",
+  "updatedAt": "2026-02-24T00:00:00Z",
   "freeFeatures": [
     {
       "id": "free_style_board",
@@ -323,6 +323,37 @@
     }
   ],
   "premiumFeatures": [
+    {
+  "id": "premium_price_stats",
+  "cellTitle": {
+    "ko": "가격 통계",
+    "en": "Price Statistics",
+    "zh-Hans": "价格统计",
+    "ja": "価格統計",
+    "es": "Estadísticas de precios",
+    "fr": "Statistiques de prix",
+    "de": "Preisstatistiken"
+  },
+  "detailTitle": {
+    "ko": "옷장 소비를 한눈에 보는 가격 통계",
+    "en": "Understand your wardrobe spending at a glance",
+    "zh-Hans": "一眼掌握衣橱消费情况",
+    "ja": "クローゼットの支出を一目で把握",
+    "es": "Visualiza el gasto de tu armario",
+    "fr": "Visualisez vos dépenses vestimentaires",
+    "de": "Ausgaben für den Kleiderschrank auf einen Blick"
+  },
+  "description": {
+    "ko": "아이템 가격 정보를 기반으로 옷장 소비를 통계로 분석합니다.\n\n- 전체 아이템 총 금액\n- 카테고리별 소비 금액 분포\n- 브랜드별 소비 금액\n- 가장 많은 비용을 쓴 카테고리 / 브랜드\n- 실제 착용 빈도 대비 가격 효율 분석\n\n각 항목을 누르면 더 자세한 가격 통계를 확인할 수 있습니다.\n\n가격 통계를 통해 단순히 많이 가진 옷이 아닌, 내가 실제로 잘 활용하는 옷과 비효율적인 소비를 구분할 수 있습니다.",
+    "en": "Analyze your wardrobe spending with detailed price statistics.\n\n- Total value of all items\n- Spending distribution by category\n- Spending by brand\n- Most expensive categories and brands\n- Cost-efficiency based on actual wear frequency\n\nTap any section to view more detailed price insights.\n\nPrice stats help you understand not just what you own, but what you truly get value from.",
+    "zh-Hans": "基于单品价格信息，对衣橱消费进行统计分析。\n\n- 单品总价值\n- 按分类的消费金额分布\n- 按品牌的消费金额\n- 消费最高的分类与品牌\n- 基于穿着频率的性价比分析\n\n点击任意项目即可查看更详细的价格统计信息。\n\n价格统计可帮助你区分真正高效利用的衣物与不必要的消费。",
+    "ja": "アイテムの価格情報をもとに、クローゼットの支出を統計で分析します。\n\n- 全アイテムの合計金額\n- カテゴリ別の支出分布\n- ブランド別の支出\n- 最もお金を使ったカテゴリ・ブランド\n- 着用頻度に基づくコスト効率分析\n\n各項目をタップすると、より詳細な価格統計を確認できます。\n\n価格統計により、本当に活用できている服と無駄な出費を見分けられます。",
+    "es": "Analiza el gasto de tu armario con estadísticas de precios.\n\n- Valor total de los artículos\n- Distribución del gasto por categoría\n- Gasto por marca\n- Categorías y marcas más costosas\n- Análisis de eficiencia según la frecuencia de uso\n\nToca cualquier sección para ver estadísticas de precio más detalladas.\n\nLas estadísticas de precios te ayudan a entender qué prendas realmente valen la pena.",
+    "fr": "Analysez vos dépenses vestimentaires grâce aux statistiques de prix.\n\n- Valeur totale des articles\n- Répartition des dépenses par catégorie\n- Dépenses par marque\n- Catégories et marques les plus coûteuses\n- Analyse du rapport coût/utilisation\n\nTouchez un élément pour consulter des statistiques de prix plus détaillées.\n\nCes statistiques vous aident à identifier les vêtements réellement rentables.",
+    "de": "Analysiere deine Kleiderschrank-Ausgaben mit Preisstatistiken.\n\n- Gesamtwert aller Artikel\n- Ausgabenverteilung nach Kategorien\n- Ausgaben nach Marken\n- Teuerste Kategorien und Marken\n- Kosten-Nutzen-Analyse basierend auf Tragehäufigkeit\n\nTippe auf einen Bereich, um detailliertere Preisstatistiken zu sehen.\n\nSo erkennst du, welche Kleidung sich wirklich lohnt."
+  },
+  "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/premium_1/0.png"
+},
     {
       "id": "premium_color_filter_items_tab",
       "cellTitle": {
