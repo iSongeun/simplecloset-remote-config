@@ -12,36 +12,6 @@
   "updatedAt": "2026-04-21T00:00:00Z",
   "freeFeatures": [
     {
-  "id": "free_pricing_update_notice",
-  "cellTitle": {
-    "ko": "요금 변경 안내",
-    "en": "Pricing Update",
-    "zh-Hans": "价格更新通知",
-    "ja": "料金変更のお知らせ",
-    "es": "Actualización de precios",
-    "fr": "Mise à jour des tarifs",
-    "de": "Preisänderung"
-  },
-  "detailTitle": {
-    "ko": "다음 주부터 프리미엄 요금 업데이트 예정",
-    "en": "Premium pricing will be updated next week",
-    "zh-Hans": "下周将更新高级版价格",
-    "ja": "来週からプレミアム料金が更新予定",
-    "es": "Los precios Premium se actualizarán la próxima semana",
-    "fr": "Les tarifs Premium seront mis à jour la semaine prochaine",
-    "de": "Premium-Preise werden nächste Woche aktualisiert"
-  },
-  "description": {
-    "ko": "다음 주부터 프리미엄 요금이 변경될 예정입니다. 기존 요금은 업데이트 이후 적용되지 않으니 이용에 참고해 주세요.",
-    "en": "Premium pricing will change starting next week. Current pricing will no longer be available after the update.",
-    "zh-Hans": "高级版价格将于下周起调整，更新后将不再适用当前价格。",
-    "ja": "来週からプレミアム料金が変更されます。現在の料金はアップデート後に適用されなくなります。",
-    "es": "Los precios Premium cambiarán a partir de la próxima semana. Los precios actuales dejarán de estar disponibles.",
-    "fr": "Les tarifs Premium changeront à partir de la semaine prochaine. Les tarifs actuels ne seront plus disponibles.",
-    "de": "Die Premium-Preise werden ab nächster Woche geändert. Die aktuellen Preise gelten danach nicht mehr."
-  },
-  "imageUrl": ""
-},
     {
       "id": "free_style_board",
       "cellTitle": {
@@ -354,6 +324,36 @@
     }
   ],
   "premiumFeatures": [
+      "id": "free_pricing_update_notice",
+  "cellTitle": {
+    "ko": "요금 변경 안내",
+    "en": "Pricing Update",
+    "zh-Hans": "价格更新通知",
+    "ja": "料金変更のお知らせ",
+    "es": "Actualización de precios",
+    "fr": "Mise à jour des tarifs",
+    "de": "Preisänderung"
+  },
+  "detailTitle": {
+    "ko": "다음 주부터 프리미엄 요금 업데이트 예정",
+    "en": "Premium pricing will be updated next week",
+    "zh-Hans": "下周将更新高级版价格",
+    "ja": "来週からプレミアム料金が更新予定",
+    "es": "Los precios Premium se actualizarán la próxima semana",
+    "fr": "Les tarifs Premium seront mis à jour la semaine prochaine",
+    "de": "Premium-Preise werden nächste Woche aktualisiert"
+  },
+ "description": {
+  "ko": "다음 주부터 프리미엄 요금이 변경될 예정입니다. 기존 요금은 업데이트 이후 적용되지 않으니 이용에 참고해 주세요.\n\n월 $0.9, 연 $8.99 구독제로 인상될 예정입니다. 현재 가격으로 이용하시려면 지금 구독을 시작해보세요.",
+  "en": "Premium pricing will change starting next week. Current pricing will no longer be available after the update.\n\nPricing will be updated to a subscription: $0.9/month or $8.99/year. Start your subscription now to lock in the current price.",
+  "zh-Hans": "高级版价格将于下周起调整，更新后将不再适用当前价格。\n\n将调整为订阅制：每月 $0.9，每年 $8.99。如需享受当前价格，请现在开始订阅。",
+  "ja": "来週からプレミアム料金が変更されます。現在の料金はアップデート後に適用されなくなります。\n\n月額 $0.9、年額 $8.99 のサブスクリプションに変更予定です。現在の価格で利用するには今すぐご利用ください。",
+  "es": "Los precios Premium cambiarán a partir de la próxima semana. Los precios actuales dejarán de estar disponibles.\n\nSe actualizará a suscripción: $0.9/mes o $8.99/año. Empieza ahora para mantener el precio actual.",
+  "fr": "Les tarifs Premium changeront à partir de la semaine prochaine. Les tarifs actuels ne seront plus disponibles.\n\nIls passeront à un abonnement : 0,9 $/mois ou 8,99 $/an. Abonnez-vous dès maintenant pour conserver le tarif actuel.",
+  "de": "Die Premium-Preise werden ab nächster Woche geändert. Die aktuellen Preise gelten danach nicht mehr.\n\nDie Preise werden auf ein Abo umgestellt: 0,9 $/Monat oder 8,99 $/Jahr. Starte jetzt, um dir den aktuellen Preis zu sichern."
+},
+  "imageUrl": ""
+},
     {
   "id": "premium_price_stats",
   "cellTitle": {
