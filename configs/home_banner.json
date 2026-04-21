@@ -9,8 +9,39 @@
     "fr": "Nouvelles fonctionnalités v3 et options Premium", 
     "de": "v3 Neue Funktionen und Premium-Features" 
   },
-  "updatedAt": "2026-02-24T00:00:00Z",
+  "updatedAt": "2026-04-21T00:00:00Z",
   "freeFeatures": [
+    {
+  "id": "free_pricing_update_notice",
+  "cellTitle": {
+    "ko": "요금 변경 안내",
+    "en": "Pricing Update",
+    "zh-Hans": "价格更新通知",
+    "ja": "料金変更のお知らせ",
+    "es": "Actualización de precios",
+    "fr": "Mise à jour des tarifs",
+    "de": "Preisänderung"
+  },
+  "detailTitle": {
+    "ko": "다음 주부터 프리미엄 요금 업데이트 예정",
+    "en": "Premium pricing will be updated next week",
+    "zh-Hans": "下周将更新高级版价格",
+    "ja": "来週からプレミアム料金が更新予定",
+    "es": "Los precios Premium se actualizarán la próxima semana",
+    "fr": "Les tarifs Premium seront mis à jour la semaine prochaine",
+    "de": "Premium-Preise werden nächste Woche aktualisiert"
+  },
+  "description": {
+    "ko": "다음 주부터 프리미엄 요금이 변경될 예정입니다. 기존 요금은 업데이트 이후 적용되지 않으니 이용에 참고해 주세요.",
+    "en": "Premium pricing will change starting next week. Current pricing will no longer be available after the update.",
+    "zh-Hans": "高级版价格将于下周起调整，更新后将不再适用当前价格。",
+    "ja": "来週からプレミアム料金が変更されます。現在の料金はアップデート後に適用されなくなります。",
+    "es": "Los precios Premium cambiarán a partir de la próxima semana. Los precios actuales dejarán de estar disponibles.",
+    "fr": "Les tarifs Premium changeront à partir de la semaine prochaine. Les tarifs actuels ne seront plus disponibles.",
+    "de": "Die Premium-Preise werden ab nächster Woche geändert. Die aktuellen Preise gelten danach nicht mehr."
+  },
+  "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/free_1/notice.png"
+},
     {
       "id": "free_style_board",
       "cellTitle": {
