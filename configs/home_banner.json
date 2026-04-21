@@ -40,7 +40,7 @@
     "fr": "Les tarifs Premium changeront à partir de la semaine prochaine. Les tarifs actuels ne seront plus disponibles.",
     "de": "Die Premium-Preise werden ab nächster Woche geändert. Die aktuellen Preise gelten danach nicht mehr."
   },
-  "imageUrl": "https://raw.githubusercontent.com/iSongeun/simplecloset-remote-config/main/configs/images/free_1/notice.png"
+  "imageUrl": ""
 },
     {
       "id": "free_style_board",
