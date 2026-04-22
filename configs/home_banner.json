@@ -10,6 +10,7 @@
     "de": "Preise steigen ab nächster Woche"
   },
   "updatedAt": "2026-04-21T00:00:00Z",
+    "freeFeatures": [
     {
       "id": "free_style_board",
       "cellTitle": {
@@ -322,7 +323,6 @@
     }
   ],
   "premiumFeatures": [
-      "freeFeatures": [
     {
       "id": "free_pricing_update_notice",
       "cellTitle": {
