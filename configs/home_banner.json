@@ -323,6 +323,7 @@
     }
   ],
   "premiumFeatures": [
+    {
     "id": "premium_ui_issue_notice",
 "cellTitle": {
   "ko": "[중요] v3.7 버전 업데이트 오류 안내",
