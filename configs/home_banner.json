@@ -1,13 +1,13 @@
 {
   "version": 3,
-  "title": {
-  "ko": "이제 스타일 태그를 직접 편집할 수 있습니다",
-  "en": "You can now edit style tags directly",
-  "zh-Hans": "现在可以直接编辑风格标签",
-  "ja": "スタイルタグを直接編集できるようになりました",
-  "es": "Ahora puedes editar las etiquetas de estilo directamente",
-  "fr": "Vous pouvez désormais modifier les tags de style directement",
-  "de": "Sie können Stil-Tags jetzt direkt bearbeiten"
+"title": {
+  "ko": "[중요] v3.7 버전 프리미엄 UI 오류 안내",
+  "en": "[Important] v3.7 Premium UI Issue Notice",
+  "zh-Hans": "[重要] v3.7 高级版界面错误通知",
+  "ja": "【重要】 v3.7 プレミアムUI不具合のお知らせ",
+  "es": "[Importante] v3.7 Aviso de error en la interfaz premium",
+  "fr": "[Important] v3.7 Notification d’erreur de l’interface premium",
+  "de": "[Wichtig] v3.7 Hinweis auf einen Fehler in der Premium-Oberfläche"
 },
   "updatedAt": "2026-04-21T00:00:00Z",
     "freeFeatures": [
@@ -323,6 +323,36 @@
     }
   ],
   "premiumFeatures": [
+    "id": "premium_ui_issue_notice",
+"cellTitle": {
+  "ko": "[중요] v3.7 버전 업데이트 오류 안내",
+  "en": "[Important] v3.7 Update Issue",
+  "zh-Hans": "[重要] v3.7版本更新错误",
+  "ja": "【重要】v3.7アップデート不具合",
+  "es": "[Importante] Error en la actualización v3.7",
+  "fr": "[Important] Problème de mise à jour v3.7",
+  "de": "[Wichtig] Fehler beim Update auf Version 3.7"
+},
+"detailTitle": {
+  "ko": "3.7 업데이트 사용자 일부에서 UI 오류가 발생했습니다",
+  "en": "A UI issue has occurred for some users on version 3.7",
+  "zh-Hans": "3.7版本部分用户出现界面错误",
+  "ja": "バージョン3.7の一部ユーザーでUIエラーが発生しました",
+  "es": "Se ha producido un error de interfaz en algunos usuarios de la versión 3.7",
+  "fr": "Un problème d’interface est survenu pour certains utilisateurs de la version 3.7",
+  "de": "Bei einigen Nutzern der Version 3.7 ist ein UI-Fehler aufgetreten"
+},
+"description": {
+  "ko": "현재 3.7 업데이트를 이용 중인 일부 프리미엄 사용자에게 무료 버전 UI가 표시되는 문제가 발생했습니다.\n\n구독 상태 자체에는 영향이 없으며, UI 표시 오류로 확인되었습니다.\n\n현재 원인을 파악하고 있으며, 빠르게 수정 업데이트를 진행하겠습니다.\n\n문제 해결 전까지는 가급적 3.7 버전으로의 업데이트를 미뤄주시기를 권장드립니다.\n\n이용에 불편을 드려 진심으로 사과드립니다.",
+  "en": "An issue has been identified where some premium users on version 3.7 are seeing the free version UI.\n\nYour subscription status is not affected, and this is a display issue only.\n\nWe are currently investigating the cause and will release a fix as soon as possible.\n\nUntil the issue is resolved, we recommend avoiding updating to version 3.7 if possible.\n\nWe sincerely apologize for the inconvenience.",
+  "zh-Hans": "目前在3.7版本中，部分高级用户显示为免费版界面。\n\n该问题仅为界面显示错误，不影响订阅状态。\n\n我们正在确认原因，并将尽快发布修复更新。\n\n在问题修复前，建议尽量避免更新至3.7版本。\n\n对此带来的不便，我们深表歉意。",
+  "ja": "現在、バージョン3.7をご利用中の一部プレミアムユーザーに無料版のUIが表示される不具合が発生しています。\n\nサブスクリプションの状態には影響はなく、表示上の問題です。\n\n現在原因を調査中で、できるだけ早く修正アップデートを行います。\n\n問題が解決されるまで、可能であればバージョン3.7へのアップデートはお控えください。\n\nご不便をおかけし、誠に申し訳ございません。",
+  "es": "Se ha detectado un problema en la versión 3.7 por el cual algunos usuarios premium ven la interfaz de la versión gratuita.\n\nEl estado de la suscripción no se ve afectado y se trata solo de un error de visualización.\n\nEstamos investigando la causa y publicaremos una actualización lo antes posible.\n\nHasta que se resuelva el problema, recomendamos evitar actualizar a la versión 3.7 si es posible.\n\nLamentamos sinceramente las molestias ocasionadas.",
+  "fr": "Un problème a été identifié dans la version 3.7 : certains utilisateurs premium voient l’interface de la version gratuite.\n\nLe statut de l’abonnement n’est pas affecté, il s’agit uniquement d’un problème d’affichage.\n\nNous analysons actuellement la cause et publierons une correction dès que possible.\n\nEn attendant la résolution, nous vous recommandons d’éviter la mise à jour vers la version 3.7 si possible.\n\nNous vous présentons nos sincères excuses pour la gêne occasionnée.",
+  "de": "In Version 3.7 wurde ein Problem festgestellt, bei dem einige Premium-Nutzer die Oberfläche der kostenlosen Version sehen.\n\nDer Abonnementstatus ist nicht betroffen, es handelt sich lediglich um ein Anzeigeproblem.\n\nWir untersuchen derzeit die Ursache und werden so schnell wie möglich ein Update bereitstellen.\n\nBis zur Behebung empfehlen wir, ein Update auf Version 3.7 nach Möglichkeit zu vermeiden.\n\nWir entschuldigen uns aufrichtig für die entstandenen Unannehmlichkeiten."
+},
+"imageUrl": ""
+    },
     {
   "id": "premium_style_tag_edit",
   "cellTitle": {
