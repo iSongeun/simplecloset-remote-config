@@ -1,14 +1,14 @@
 {
   "version": 3,
   "title": {
-    "ko": "다음주부터 가격이 인상됩니다",
-    "en": "Prices will increase starting next week",
-    "zh-Hans": "价格将于下周上调",
-    "ja": "来週から価格が引き上げられます",
-    "es": "Los precios aumentarán a partir de la próxima semana",
-    "fr": "Les prix augmenteront à partir de la semaine prochaine",
-    "de": "Preise steigen ab nächster Woche"
-  },
+  "ko": "이제 스타일 태그를 직접 편집할 수 있습니다",
+  "en": "You can now edit style tags directly",
+  "zh-Hans": "现在可以直接编辑风格标签",
+  "ja": "スタイルタグを直接編集できるようになりました",
+  "es": "Ahora puedes editar las etiquetas de estilo directamente",
+  "fr": "Vous pouvez désormais modifier les tags de style directement",
+  "de": "Sie können Stil-Tags jetzt direkt bearbeiten"
+},
   "updatedAt": "2026-04-21T00:00:00Z",
     "freeFeatures": [
     {
@@ -324,36 +324,36 @@
   ],
   "premiumFeatures": [
     {
-      "id": "free_pricing_update_notice",
-      "cellTitle": {
-        "ko": "요금 변경 안내",
-        "en": "Pricing Update",
-        "zh-Hans": "价格更新通知",
-        "ja": "料金変更のお知らせ",
-        "es": "Actualización de precios",
-        "fr": "Mise à jour des tarifs",
-        "de": "Preisänderung"
-      },
-      "detailTitle": {
-        "ko": "다음 주부터 프리미엄 요금 업데이트 예정",
-        "en": "Premium pricing will be updated next week",
-        "zh-Hans": "下周将更新高级版价格",
-        "ja": "来週からプレミアム料金が更新予定",
-        "es": "Los precios Premium se actualizarán la próxima semana",
-        "fr": "Les tarifs Premium seront mis à jour la semaine prochaine",
-        "de": "Premium-Preise werden nächste Woche aktualisiert"
-      },
-      "description": {
-        "ko": "다음 주부터 프리미엄 요금이 변경될 예정입니다. 기존 요금은 업데이트 이후 적용되지 않으니 이용에 참고해 주세요.\n\n월 $0.9, 연 $8.99 구독제로 인상될 예정입니다. 현재 가격으로 이용하시려면 지금 구독을 시작해보세요.",
-        "en": "Premium pricing will change starting next week. Current pricing will no longer be available after the update.\n\nPricing will be updated to a subscription: $0.9/month or $8.99/year. Start your subscription now to lock in the current price.",
-        "zh-Hans": "高级版价格将于下周起调整，更新后将不再适用当前价格。\n\n将调整为订阅制：每月 $0.9，每年 $8.99。如需享受当前价格，请现在开始订阅。",
-        "ja": "来週からプレミアム料金が変更されます。現在の料金はアップデート後に適用されなくなります。\n\n月額 $0.9、年額 $8.99 のサブスクリプションに変更予定です。現在の価格で利用するには今すぐご利用ください。",
-        "es": "Los precios Premium cambiarán a partir de la próxima semana. Los precios actuales dejarán de estar disponibles.\n\nSe actualizará a suscripción: $0.9/mes o $8.99/año. Empieza ahora para mantener el precio actual.",
-        "fr": "Les tarifs Premium changeront à partir de la semaine prochaine. Les tarifs actuels ne seront plus disponibles.\n\nIls passeront à un abonnement : 0,9 $/mois ou 8,99 $/an. Abonnez-vous dès maintenant pour conserver le tarif actuel.",
-        "de": "Die Premium-Preise werden ab nächster Woche geändert. Die aktuellen Preise gelten danach nicht mehr.\n\nDie Preise werden auf ein Abo umgestellt: 0,9 $/Monat oder 8,99 $/Jahr. Starte jetzt, um dir den aktuellen Preis zu sichern."
-      },
-      "imageUrl": ""
-    },
+  "id": "premium_style_tag_edit",
+  "cellTitle": {
+    "ko": "스타일 태그 편집",
+    "en": "Edit Style Tags",
+    "zh-Hans": "编辑风格标签",
+    "ja": "スタイルタグ編集",
+    "es": "Editar etiquetas de estilo",
+    "fr": "Modifier les tags de style",
+    "de": "Stil-Tags bearbeiten"
+  },
+  "detailTitle": {
+    "ko": "스타일 태그를 직접 편집하세요",
+    "en": "Edit your style tags directly",
+    "zh-Hans": "直接编辑你的风格标签",
+    "ja": "スタイルタグを直接編集",
+    "es": "Edita tus etiquetas de estilo directamente",
+    "fr": "Modifiez vos tags de style directement",
+    "de": "Bearbeite deine Stil-Tags direkt"
+  },
+  "description": {
+    "ko": "이제 기본으로 제공되는 스타일 태그뿐만 아니라, 원하는 스타일 태그를 직접 추가하고 수정할 수 있습니다.\n\n- 나만의 스타일 태그 생성\n- 기존 태그 수정 및 삭제\n- 더 세분화된 스타일 관리\n\n자신만의 기준으로 스타일을 정리하고 더 정확한 추천을 받아보세요.",
+    "en": "You can now create and edit your own style tags beyond the default ones.\n\n- Create custom style tags\n- Edit and delete existing tags\n- Manage styles in more detail\n\nOrganize your wardrobe your way and get more accurate recommendations.",
+    "zh-Hans": "现在不仅可以使用默认标签，还可以自定义编辑风格标签。\n\n- 创建自定义风格标签\n- 编辑和删除已有标签\n- 更精细地管理风格\n\n按照自己的方式整理衣橱，并获得更精准的推荐。",
+    "ja": "デフォルトのタグに加えて、スタイルタグを自由に作成・編集できます。\n\n- 独自のスタイルタグ作成\n- 既存タグの編集・削除\n- より細かいスタイル管理\n\n自分だけの基準で整理し、より正確なおすすめを受け取れます。",
+    "es": "Ahora puedes crear y editar tus propias etiquetas de estilo además de las predeterminadas.\n\n- Crear etiquetas personalizadas\n- Editar y eliminar etiquetas existentes\n- Gestionar estilos con más detalle\n\nOrganiza tu armario a tu manera y obtén mejores recomendaciones.",
+    "fr": "Vous pouvez désormais créer et modifier vos propres tags de style en plus de ceux par défaut.\n\n- Créer des tags personnalisés\n- Modifier et supprimer les tags existants\n- Gérer les styles plus en détail\n\nOrganisez votre garde-robe à votre façon et obtenez de meilleures recommandations.",
+    "de": "Du kannst jetzt eigene Stil-Tags erstellen und bearbeiten.\n\n- Eigene Stil-Tags erstellen\n- Bestehende Tags bearbeiten und löschen\n- Detailliertere Stilverwaltung\n\nOrganisiere deine Garderobe individuell und erhalte genauere Empfehlungen."
+  },
+  "imageUrl": ""
+},
     {
       "id": "premium_price_stats",
       "cellTitle": {
